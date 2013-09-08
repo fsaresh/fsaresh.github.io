@@ -2,7 +2,7 @@
 layout: post
 title: "My first post on this new Jekyll thing!"
 date:  2013-09-07 17:51
-categories: personal update personalupdate
+categories: update
 ---
 
 Hello! My name is Farhan Sareshwala, a student at UC Davis. I am currently trying out this new web design thing called Jekyll that seems really handy! Here is me attempting a code snippet:
