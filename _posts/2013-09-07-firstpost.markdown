@@ -21,8 +21,6 @@ Check out [Birds With Arms][bwa], my good friend Bryan's favorite subreddit. It 
 Now, here is a picture of my cat, Pepper:
 ![Pepper is a cat]({{ site.url }}/resources/Pepper.JPG)
 
-
 ---
-Now, here is a picture of my cat, [Pepper][cat].
 [bwa]: http://reddit.com/r/birdswitharms
 [mms]: http://reddit.com/r/mademesmile
