@@ -19,6 +19,7 @@ int main(int argc, char * argv)
 Check out [Birds With Arms][bwa], my good friend Bryan's favorite subreddit. It is quite silly, and I need to remember to check out [Made Me Smile][mms]. 
 
 Now, here is a picture of my cat, Pepper:
+
 ![Pepper is a cat]({{ site.url }}/resources/pixel_pepper.JPG)
 
 ---
