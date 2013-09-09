@@ -22,6 +22,5 @@ Now, here is a picture of my cat, Pepper:
 
 ![Pepper is a cat]({{ site.url }}/resources/pixel_pepper.JPG)
 
----
 [bwa]: http://reddit.com/r/birdswitharms
 [mms]: http://reddit.com/r/mademesmile
