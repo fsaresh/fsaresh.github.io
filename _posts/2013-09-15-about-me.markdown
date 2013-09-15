@@ -11,7 +11,7 @@ I am currently pursuing a double major of Computer Science and Psychology (with 
 
 Some examples of my work include designing an experiment to measure eye movements as an indication of decision. Under the supervision of Dr. Joy Geng, the head of the Geng lab at the UC Davis Center for Mind and Brain, and Dr. Eve Isham, I coded (from scratch in a language called Presentation, based off of C), ran (on over 25 students from UC Davis), and analyzed the data (using Matlab, Perl, and R). I also presented this research at the UC Davis Undergraduate Research Conference and the Stanford Undergraduate Psychology Conference, and my results can be seen below.
 
-![Predicting Your Decisions Before They're Made]({{site.url}}/resources/poster_small.pdf)
+![Predicting Your Decisions Before They're Made]({{ site.url }}/resources/poster_small.pdf)
 
 In addition, I work at the UC Davis Computer Science Instructional Facility (better known as the CSIF), where I maintain over eighty computers running Fedora, a Linux distribution. I also triage tickets for the College of Engineering, answer student questions regarding the labs, and update scripts for the users' convenience (like the quota management script, fquota.pl).
 
