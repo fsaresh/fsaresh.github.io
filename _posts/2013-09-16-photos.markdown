@@ -1,0 +1,26 @@
+---
+layout: post
+title: "My Photography Portfolio"
+date:  2013-09-16 20:13
+categories: photography
+---
+
+Welcome to my portfolio! Here are some of my photographs, along with their respective titles.
+
+Around The Bend
+![Around The Bend]({{ site.url }}/photos/around_the_bend_new.jpg)
+
+Ideation
+![Ideation]({{ site.url }}/photos/ideation_new.jpg)
+
+In Cold Blood
+![In Cold Blood]({{ site.url }}/photos/in_cold_blood_new.jpg)
+
+Primal Instinct
+![Primal Instinct]({{ site.url }}/photos/primal_instinct_new.jpg)
+
+The Longest Journey
+![The Longest Journey]({{ site.url }}/photos/the_longest_journey_new.jpg)
+
+Too Early
+![Too Early]({{ site.url }}/photos/too_early_new.jpg)

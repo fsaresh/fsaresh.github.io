@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Places I Have Been"
+date:  2013-09-17 20:13
+categories: photography
+---
+
+Welcome to my travel page! Here, I would like to share with you some places I have visited in my life, along with some pictures from each place.
+
+Ireland (Summer 2005)
+
+Wales (Summer 2005)
+
+Scotland (Summer 2005)
+
+England (Summer 2005)
+
+Niagara Falls ()
+
+India (Winter 2011)
+
+Around The Bend
+![Around The Bend]({{ site.url }}/photos/around_the_bend_new.jpg)
+
+Ideation
+![Ideation]({{ site.url }}/photos/ideation_new.jpg)
+
+In Cold Blood
+![In Cold Blood]({{ site.url }}/photos/in_cold_blood_new.jpg)
+
+Primal Instinct
+![Primal Instinct]({{ site.url }}/photos/primal_instinct_new.jpg)
+
+The Longest Journey
+![The Longest Journey]({{ site.url }}/photos/the_longest_journey_new.jpg)
+
+Too Early
+![Too Early]({{ site.url }}/photos/too_early_new.jpg)
