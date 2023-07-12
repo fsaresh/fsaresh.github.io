@@ -1,0 +1,83 @@
+# [[main]]
+#    identifier = "<id>" where <id> is what's used in this menu file for organization of parents
+#    name = "<name_id>" where <name_id> is what shows up in dropdown menu
+#    url = "/<url_id>" where <url_id> must (case insensitive) match name in index.md title frontmatter, which is the "real" URL and this is the alias
+#    weight = <weight_id> where <weight_id> indicates order in dropdown
+
+[[main]]
+    # Top-level menu entry
+    identifier = "work"
+    name = "Work"
+    url = "/projects/"
+    weight = 1
+
+[[main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    parent = "work"
+    weight = 1
+
+[[main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    parent = "work"
+    weight = 2
+
+[[main]]
+    # Top-level menu entry
+    identifier = "writing"
+    name = "Writing"
+    url = "/posts/"
+    weight = 4
+
+[[main]]
+    identifier = "posts"
+    name = "All Posts"
+    url = "/posts/"
+    parent = "writing"
+    weight = 4
+
+[[main]]
+    identifier = "SamplesTitleID"
+    name = "SamplesTitleName"
+    url = "/samples/"
+    # url = "/posts/samples/" # Remove url param from samples/_index.md frontmatter to use full permalink
+    parent = "writing"
+    weight = 5
+
+[[main]]
+    # Top-level menu entry
+    identifier = "explore"
+    name = "Explore"
+    url = "/categories/"
+    weight = 6
+
+[[main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    parent = "explore"
+    weight = 6
+
+[[main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    parent = "explore"
+    weight = 7
+
+[[main]]
+    identifier = "series"
+    name = "Series"
+    url = "/series/"
+    parent = "explore"
+    weight = 8
+
+[[main]]
+    identifier = "project-type"
+    name = "Project Types"
+    url = "/project-types/"
+    parent = "explore"
+    weight = 9
