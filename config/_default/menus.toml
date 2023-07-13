@@ -6,6 +6,14 @@
 
 [[main]]
     # Top-level menu entry
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    #parent = "work"
+    weight = 1
+
+[[main]]
+    # Top-level menu entry
     identifier = "work"
     name = "Work"
     url = "/projects/"
@@ -15,13 +23,6 @@
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
-    parent = "work"
-    weight = 1
-
-[[main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
     parent = "work"
     weight = 2
 
@@ -38,14 +39,6 @@
     url = "/posts/"
     parent = "writing"
     weight = 4
-
-[[main]]
-    identifier = "SamplesTitleID"
-    name = "SamplesTitleName"
-    url = "/samples/"
-    # url = "/posts/samples/" # Remove url param from samples/_index.md frontmatter to use full permalink
-    parent = "writing"
-    weight = 5
 
 [[main]]
     # Top-level menu entry
