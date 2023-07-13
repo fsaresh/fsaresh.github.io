@@ -20,6 +20,7 @@ categories:
 tags:
 - Career
 - Mental Health
+- Growth Mindset
 series:
 
 toc: true
