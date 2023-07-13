@@ -19,12 +19,19 @@
     url = "/projects/"
     weight = 1
 
-[[main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
-    parent = "work"
-    weight = 2
+    [[main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects/"
+        parent = "work"
+        weight = 2
+
+    [[main]]
+        identifier = "career"
+        name = "Career Thoughts"
+        url = "/tags/career/"
+        parent = "work"
+        weight = 3
 
 [[main]]
     # Top-level menu entry
@@ -33,12 +40,19 @@
     url = "/posts/"
     weight = 4
 
-[[main]]
-    identifier = "posts"
-    name = "All Posts"
-    url = "/posts/"
-    parent = "writing"
-    weight = 4
+    [[main]]
+        identifier = "posts"
+        name = "All Posts"
+        url = "/posts/"
+        parent = "writing"
+        weight = 4
+
+    [[main]]
+        identifier = "posts"
+        name = "Mental Health"
+        url = "/tags/mental health/"
+        parent = "writing"
+        weight = 5
 
 [[main]]
     # Top-level menu entry
@@ -47,30 +61,30 @@
     url = "/categories/"
     weight = 6
 
-[[main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-    parent = "explore"
-    weight = 6
+    [[main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        parent = "explore"
+        weight = 6
 
-[[main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    parent = "explore"
-    weight = 7
+    [[main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        parent = "explore"
+        weight = 7
 
-[[main]]
-    identifier = "series"
-    name = "Series"
-    url = "/series/"
-    parent = "explore"
-    weight = 8
+    [[main]]
+        identifier = "series"
+        name = "Series"
+        url = "/series/"
+        parent = "explore"
+        weight = 8
 
-[[main]]
-    identifier = "project-type"
-    name = "Project Types"
-    url = "/project-types/"
-    parent = "explore"
-    weight = 9
+    [[main]]
+        identifier = "project-type"
+        name = "Project Types"
+        url = "/project-types/"
+        parent = "explore"
+        weight = 9

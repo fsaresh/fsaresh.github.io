@@ -3,6 +3,7 @@ type: about
 title: Hi, my name is Farhan.
 seo_title: About
 description: Learn more about my background and experience.
+TODO for Farhan: add link to other pages once those pages are made
 ---
 
 # Who am I?
@@ -23,11 +24,9 @@ Keep scrolling to see topics I plan on covering!
 ## Art
 My sister-in-law, mother, and a few friends have all shown some degree of interest in photography, composition rules, and other art over the years.
 
-I shared my composition notes from high school with them[^1]. They need a massive overhaul, but something is better than nothing!
+I enjoy painting, though that's a skill that's not well developed yet -- I might share some here. As for my photography, I've been told my style is "best suited for desktop wallpapers or postcards," which I take as a compliment!
 
 {{< gallery match="my_photos/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
-
-[^1]: TODO for Farhan: add link to composition notes once that page is made
 
 ## Interview Guidance
 An acquaintance wanted guidance on resume crafting and interview prep (technical and behavioral).
@@ -39,6 +38,7 @@ This was just after I finished going over some similar guidance with a coworker 
 I noticed some common threads in all these discussions and want to share them!
 
 {{< figure src="/images/ikigai_smooth.png" title="Ikigai, a framework for finding a job that you find peace with" height="800px" width="800px" >}}
+
 
 ## Mental Health
 I've gone through my fair share of therapy, and the lessons I've learned changed my life -- I wouldn't be half the person I am today without spending time working on myself and becoming my own friend.
