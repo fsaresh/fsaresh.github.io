@@ -11,6 +11,7 @@ hugo.darwin
 hugo.linux
 # Temporary area
 /tmp/
+/content/sample_posts/
 
 ### JS ###
 /node_modules
