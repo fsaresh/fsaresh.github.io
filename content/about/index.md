@@ -59,7 +59,7 @@ I spend a lot of time with computers. As a result, I've picked up some things th
     {{< /rawhtml >}}
     Browser safety 
 -   {{< rawhtml >}}
-    <img src="/images/logo-files/dashlane_old_logo.png" height="30px" width="30px" >
+    <img src="/images/logo-files/dashlane_old_logo_small.png" height="30px" width="30px" >
     {{< /rawhtml >}}
     An effective password manager
 -   {{< rawhtml >}}
