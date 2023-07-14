@@ -3,7 +3,7 @@ title: Candidate Guidance
 seo_title: Candidate Guidance
 summary: Resources I’ve found helpful in the last few months as I helped friends, family, and acquaintances through layoffs.
 description: Resources I’ve found helpful in the last few months as I helped friends, family, and acquaintances through layoffs.
-slug: Candidate-guidance
+slug: candidate-guidance
 author: Farhan Sareshwala
 
 draft: false

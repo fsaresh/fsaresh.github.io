@@ -3,7 +3,7 @@ title: Browser Safety
 seo_title: Browser Safety
 summary: Your browser is your gateway to the digital world. Why not make sure it's a safe ride? 
 description: Your browser is your gateway to the digital world. Why not make sure it's a safe ride?
-slug: browser_safety
+slug: browser-safety
 author: Farhan Sareshwala
 
 draft: false

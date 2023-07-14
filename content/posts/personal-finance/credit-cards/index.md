@@ -3,7 +3,7 @@ title: Selecting the Right Credit Card for You
 seo_title: Selecting the Right Credit Card for You
 summary: Picking a credit card can be a big step, and there are a lot of choices. In this post, I'll be talking about how and why I pick mine.
 description: Picking a credit card can be a big step, and there are a lot of choices. In this post, I'll be talking about how and why I pick mine.
-slug: credit_cards
+slug: credit-cards
 author: Farhan Sareshwala
 
 draft: false
