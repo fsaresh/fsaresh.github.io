@@ -10,81 +10,88 @@
     name = "About"
     url = "/about/"
     #parent = "work"
-    weight = 1
+    weight = 10
 
 [[main]]
     # Top-level menu entry
     identifier = "work"
     name = "Work"
     url = "/projects/"
-    weight = 1
+    weight = 20
 
     [[main]]
         identifier = "projects"
         name = "Projects"
         url = "/projects/"
         parent = "work"
-        weight = 2
-
+        weight = 21
     [[main]]
         identifier = "career"
         name = "Career Thoughts"
         url = "/tags/career/"
         parent = "work"
-        weight = 3
+        weight = 22
 
 [[main]]
     # Top-level menu entry
     identifier = "writing"
     name = "Writing"
     url = "/posts/"
-    weight = 4
+    weight = 30
 
     [[main]]
         identifier = "posts"
         name = "All Posts"
         url = "/posts/"
         parent = "writing"
-        weight = 4
-
+        weight = 31
     [[main]]
-        identifier = "posts"
+        identifier = "mental health"
         name = "Mental Health"
-        url = "/tags/mental health/"
+        url = "/mental health/"
         parent = "writing"
-        weight = 5
+        weight = 32
+    [[main]]
+        identifier = "personal finance"
+        name = "Personal Finance"
+        url = "/personal finance/"
+        parent = "writing"
+        weight = 33
+    [[main]]
+        identifier = "tech and tools"
+        name = "Tech and Tools"
+        url = "/tech and tools/"
+        parent = "writing"
+        weight = 34
 
 [[main]]
     # Top-level menu entry
     identifier = "explore"
     name = "Explore"
     url = "/categories/"
-    weight = 6
+    weight = 40
 
     [[main]]
         identifier = "categories"
         name = "Categories"
         url = "/categories/"
         parent = "explore"
-        weight = 6
-
+        weight = 41
     [[main]]
         identifier = "tags"
         name = "Tags"
         url = "/tags/"
         parent = "explore"
-        weight = 7
-
+        weight = 42
     [[main]]
         identifier = "series"
         name = "Series"
         url = "/series/"
         parent = "explore"
-        weight = 8
-
+        weight = 43
     [[main]]
         identifier = "project-type"
         name = "Project Types"
         url = "/project-types/"
         parent = "explore"
-        weight = 9
+        weight = 44
