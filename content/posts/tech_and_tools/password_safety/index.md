@@ -1,8 +1,8 @@
 ---
 title: Password Safety
 seo_title: Password Safety
-summary: 
-description: 
+summary: Passwords are tricky. They act as a gateway to our digital world, where anyone can be "you" if they have your password. A few adjustments can make a world of difference.
+description: Passwords are tricky. They act as a gateway to our digital world, where anyone can be "you" if they have your password. A few adjustments can make a world of difference.
 slug: password_safety
 author: Farhan Sareshwala
 
@@ -12,7 +12,7 @@ lastmod: 2023-07-13T16:38:56-07:00
 expiryDate: 
 publishDate: 2023-07-13T16:38:56-07:00
 
-feature_image: 
+feature_image: images/password_strength.png
 feature_image_alt: 
 
 categories:

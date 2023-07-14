@@ -12,7 +12,7 @@ lastmod: 2023-07-13T15:39:24-07:00
 expiryDate: 
 publishDate: 2023-07-13T15:39:24-07:00
 
-feature_image: wfh-office.jpg
+feature_image: _wfh_office.jpg
 feature_image_alt: 
 
 categories: 
