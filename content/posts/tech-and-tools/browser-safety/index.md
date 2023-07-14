@@ -53,6 +53,8 @@ So what's next? I switched to Proton Mail (see my [DeGoogle'ing my Life post]({{
 
 Personally, I like supporting services like Proton Mail, and I find the offering very worth it. Proton also offers a Calendar, Drive, and VPN included with the cost of its paid tiers. Google offers those services as well, but I find the Proton versions all to be snappier than Gmail is now. It's like being transported back in time to the age of Google innovation, but with Proton instead, and with a focus on privacy and user rather than profit.
 
+As for talking with family about this sort of thing, check out [this fun post from Mozilla](https://www.mozilla.org/en-US/firefox/family/) on having the "Tech Talk" with your loved ones!
+
 ## Brave for Work?
 Chrome has a wonderful feature called [Tab Groups](https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/) (FYI, that's a Google link) that let you group tabs and collapse those groups. It makes organizing large sets of tabs super convenient. Brave is based on Chromium, the same underlying engine behind Chrome, but it has stripped out a lot of the "Google-y" bits and made a decently secure and private browser.
 

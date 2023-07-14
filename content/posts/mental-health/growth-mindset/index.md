@@ -61,7 +61,7 @@ He introduced me to his teacher, and that led me to an amazing teacher, [Sarah N
 
 I started from the point of having my hands in my pocket the first five or so lessons and being near unwilling to phonate because I was sure I sounded terrible. Over time, I developed my own sound, learned how to be more confident with my singing, and gained a lot more control over my voice and breathing. Now, when I listen to my old recordings (of which I regrettably have very few: every time I recorded and heard my singing early on, I deleted them), I'm shocked at how far I've come.
 
-I still don't sound as good as I want to, but that's a lifelong journey. Professional singers have been doing this for decades longer than I have, with hours more of practice per week, and usually with a stronger background in music theory. Comparing myself to them would be laughable, and comparing myself to someone else for something I'm doing for myself for enjoyment would suck the fun out of it all anyway.
+I still don't sound as good as I want to, but that's a lifelong journey. Professional singers have been doing this for decades longer than I have, with hours more of practice per week, and usually with a stronger background in music theory. Comparing myself to them would be laughable, and comparing myself to someone else for something I'm doing for myself for enjoyment would suck the fun out of it all anyway. See [Enjoying the Little Things in Life]({{< ref "posts/mental-health/enjoying-little-things" >}}) for more thoughts on this!
 
 I have similar stories to what I just described with singing with other topics: woodworking, ballroom/latin dance, and even my career in programming. Adopting a growth mindset made all of them easier.
 
