@@ -12,7 +12,8 @@ lastmod: 2023-07-13T16:38:56-07:00
 expiryDate: 
 publishDate: 2023-07-13T16:38:56-07:00
 
-feature_image: images/password_strength.png
+# https://www.rocksdigital.com/password-manager-tools/
+feature_image: _password_tools.jpg
 feature_image_alt: 
 
 categories:
@@ -36,6 +37,7 @@ There are lots of posts talking about password managers and why they're importan
 - [Why You Seriously Need a Password Manager](https://www.cnet.com/tech/services-and-software/yes-you-really-need-a-password-manager-heres-how-to-set-one-up-today/)
 - [Why You Need a Password Manager. Yes, You.](https://www.nytimes.com/wirecutter/blog/why-you-need-a-password-manager-yes-you/)
 - [Not using a password manager? Here’s why you should be...](https://www.theguardian.com/technology/2022/mar/19/not-using-password-manager-why-you-should-online-security)
+- Very Short - [A Password Manager Saved My Sanity](https://www.rocksdigital.com/password-manager-tools/)
 
 I'll skip the in-depths of it since there are so many details there. Instead, I'll talk about my experience.
 

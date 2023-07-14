@@ -12,7 +12,8 @@ lastmod: 2023-07-14T09:26:57-07:00
 expiryDate: 
 publishDate: 2023-07-13T16:38:33-07:00
 
-feature_image: 
+# https://www.reddit.com/r/degoogle/
+feature_image: _degoogle.png
 feature_image_alt: 
 
 categories:
@@ -42,6 +43,7 @@ This process was surprisingly annoying, mainly because my life was pretty entren
 - Maps: Google Maps (including a bunch of custom lists)
 - Messaging: Google Voice
 - Mobile: Stock Android on my Pixel 6 using Google Play Services
+- Notes: Google Keep
 - Photos: Google Photos
 - Storage: Google Drive (including some sensitive documents...)
 - Videos: YouTube
@@ -63,6 +65,7 @@ Instead of the above, I now use:
 - Messaging: [Signal](https://signal.org/en/), an end-to-end encrypted messaging app that works on both iPhone and Android and has a desktop client
 - Mobile: [GrapheneOS](https://grapheneos.org/), an OS based on base/stock Android built with security and privacy from the ground up [^1]
     [^1]: Super easy to install on any Pixel phone. I remember installing custom bootloaders, running `adb` commands, and bricking a device when I tried putting custom ROMs on a phone ten years ago. Now, it was four clicks with no issues.
+- Notes: I use [Obsidian]() these days, and it's been fantastic. I even set up my website builder to use Obsidian as the editor
 - Photos: I back up to [ente.io](https://ente.io/) now
 - Storage: my important files are backed up to [Proton Drive](https://proton.me/drive/free), my spreadsheets for personal finance stuff are in [Zoho Sheets](https://www.zoho.com/sheet/?ireft=nhome&src=all-products-phome), but I still have several Google Docs and Google Sheets that were collaborative efforts in my GDrive.
 - Videos: as "wrappers" around YouTube, [Invidious](https://inv.riverside.rocks/feed/popular) on desktop, and [NewPipe with SponsorBlock](https://github.com/gilbsgilbs/NewPipeSponsorBlock#newpipe-x-sponsorblock-x-return-youtube-dislike) for mobile
@@ -73,3 +76,5 @@ Instead of the above, I now use:
 So, how do you deal with the fact that these companies have years, maybe even decades, of information, photos, and other identifying information about you? 
 
 [This comment chain](https://www.reddit.com/r/degoogle/comments/huk4rp/comment/fynjgdr/?utm_source=share&utm_medium=web2x&context=3) dives into things well there. Even if you can't take back the information they have, you can prevent them from gathering even more info in more invasive ways, like biometrics data.
+
+Also, [here's someone else's post](https://blog.mailfence.com/how-to-degoogle/) going over a similar trajectory, and they made some pretty similar choices!

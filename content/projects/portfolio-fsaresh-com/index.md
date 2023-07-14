@@ -12,7 +12,7 @@ lastmod: 2023-07-12T13:52:33-07:00
 expiryDate: 
 publishDate: 2023-07-12T13:52:30-07:00
 
-feature_image: web-design.jpg
+feature_image: _web_design.jpg
 feature_image_alt: Website
 
 project types: 

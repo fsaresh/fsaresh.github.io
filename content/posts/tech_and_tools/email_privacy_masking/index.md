@@ -1,18 +1,18 @@
 ---
-title: Email Safety and Masking
-seo_title: Email Safety and Masking
-summary: There's a lot to be said about trusting your mailbox to be clean and tidy, both in-person and digitally. Let's talk about the digital side. 
-description: There's a lot to be said about trusting your mailbox to be clean and tidy, both in-person and digitally. Let's talk about the digital side. 
-slug: email_safety_masking
+title: Email Privacy and Masking
+seo_title: Email Privacy and Masking
+summary: There's a lot to be said about trusting your mailbox to be private and clean, both in-person and digitally. Let's talk about the digital side. 
+description: There's a lot to be said about trusting your mailbox to be private and clean, both in-person and digitally. Let's talk about the digital side. 
+slug: email_privacy_masking
 author: Farhan Sareshwala
 
 draft: false
 date: 2023-07-13T16:38:48-07:00
-lastmod: 2023-07-13T16:38:48-07:00
+lastmod: 2023-07-14T10:38:58-07:00
 expiryDate: 
 publishDate: 2023-07-13T16:38:48-07:00
 
-feature_image: 
+feature_image: _email_masking.jpg
 feature_image_alt: 
 
 categories:

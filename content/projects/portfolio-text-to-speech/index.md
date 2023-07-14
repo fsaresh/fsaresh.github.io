@@ -8,12 +8,12 @@ author: Farhan Sareshwala
 
 draft: false
 date: 2023-02-20T03:52:30-05:00
-lastmod: 
+lastmod: 2023-02-20T03:52:30-05:00
 expiryDate: 
-publishDate: 
+publishDate: 2023-02-20T03:52:30-05:00
 
 # https://itfromzero.com/en/windows/softwares/top-10-text-to-speech-software-for-elearning.html
-feature_image: text-to-speech.png
+feature_image: _text_to_speech.png
 feature_image_alt: TextToSpeech
 
 project types: 
