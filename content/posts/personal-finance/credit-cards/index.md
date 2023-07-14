@@ -156,7 +156,7 @@ You can then either cancel the card if you want to keep your average credit age 
 ## Churning
 "Churning" is a term for maximizing what credit cards can do for you beyond what I described above. With everything I've described so far, it's been finding a setup that works for you in the longterm that you stick with. 
 
-Churning is more about pumping and dumping credit cards to maximize manufactured spending, signon bonuses, and other benefits to keep the best of the best of benefits. It's a lot of work to manage effectively, but if you do it perfectly, it can basically be a second job in the revenue it can generate. 
+Churning is more about pumping and dumping credit cards to maximize [manufactured spending](https://finmasters.com/manufactured-spending/), signon bonuses, and other benefits to keep the best of the best of benefits. It's a lot of work to manage effectively, but if you do it perfectly, it can basically be a second job in the revenue it can generate. 
 
 Message me if you want more info, but I also am not really into the churning scene and will just send you additional resources not worth listing here.
 

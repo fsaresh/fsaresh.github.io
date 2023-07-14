@@ -14,7 +14,8 @@ publishDate: 2023-05-13T16:38:56-07:00
 
 # https://www.rocksdigital.com/password-manager-tools/
 feature_image: _password_tools.jpg
-feature_image_alt: 
+# https://identityreview.com/mfa-fast-facts-and-what-need-to-know/
+feature_image_alt: _mfa.png
 
 categories:
 - Resources
