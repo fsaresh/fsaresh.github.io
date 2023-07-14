@@ -55,7 +55,7 @@ As an example, I discovered a new credit card that had some amazing benefits. Wh
 ## Tech and Tools
 I spend a lot of time with computers. As a result, I've picked up some things that make navigating our digital world safer. I have helped several loved ones onboard to more privacy-focused tools, including:
 -   {{< rawhtml >}}
-    <img src="/images/logo-files/firefox_logo.png" height="30px" width="30px" inline=true >
+    <img src="/images/logo-files/firefox_logo_small.png" height="30px" width="30px" inline=true >
     {{< /rawhtml >}}
     Browser safety 
 -   {{< rawhtml >}}
