@@ -12,7 +12,8 @@ lastmod: 2023-07-13T23:16:40-07:00
 expiryDate: 
 publishDate: 2023-07-13T16:38:42-07:00
 
-feature_image: 
+# https://techyeverything.com/most-secure-browsers/
+feature_image: _firefox.jpg
 feature_image_alt: 
 
 categories:

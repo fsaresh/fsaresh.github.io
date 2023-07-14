@@ -13,7 +13,7 @@ expiryDate:
 publishDate: 2023-03-20T17:52:30-07:00
 
 # https://i.pinimg.com/originals/0f/db/e8/0fdbe8f38b0cd435f14d470aa8b16b20.png
-feature_image: class.png
+feature_image: _class.png
 feature_image_alt: Class
 
 project types: 
