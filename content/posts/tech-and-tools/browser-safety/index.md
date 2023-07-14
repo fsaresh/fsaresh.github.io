@@ -49,7 +49,7 @@ I now have it set up so everything Google opens in a Google container no matter 
 Firefox does require a little [hardening and tweaking](https://informinc.org/internet/how-to-harden-your-firefox-browser-for-security-and-privacy/) to make it secure, but once it's there, it's excellent.
 
 ## What Can I Do About It?
-So what's next? I switched to Proton Mail a few years ago for everything "important" and haven't looked back. A lot of this comes down to convenience/flexibility vs. privacy (yet again) and is well described by [this post](https://kinsta.com/blog/protonmail-vs-gmail/).
+So what's next? I switched to Proton Mail (see my [DeGoogle'ing my Life post]({{< ref "posts/tech-and-tools/degoogling/index" >}}) for more details) a few years ago for everything "important" and haven't looked back. A lot of this comes down to convenience/flexibility vs. privacy (yet again) and is well described by [this post](https://kinsta.com/blog/protonmail-vs-gmail/).
 
 Personally, I like supporting services like Proton Mail, and I find the offering very worth it. Proton also offers a Calendar, Drive, and VPN included with the cost of its paid tiers. Google offers those services as well, but I find the Proton versions all to be snappier than Gmail is now. It's like being transported back in time to the age of Google innovation, but with Proton instead, and with a focus on privacy and user rather than profit.
 
@@ -58,4 +58,4 @@ Chrome has a wonderful feature called [Tab Groups](https://www.blog.google/produ
 
 For my work as an individual contributor, I didn't need anything like this because my work was pretty focused and more in-depth. However, as an engineering manager, I was in sore need of tab organization since my work has become much broader and more breadth-focused. I have upwards of 30 tabs in 6 groups (tools, leads, domain reviews, my team, demos, to read) at minimum that I switch between pretty regularly.
 
-I don't really care if companies are able to build a profile based off of my work traffic, since it's all within a pretty tight set of sites and I don't do any shopping, casual browsing, or use social media on my work laptop at all. Neither should you, dear reader, as many companies have clauses around employees not expecting any privacy while operating company issued devices.
+I don't really care as much if companies are able to build a profile based off of my work traffic, since it's all within a pretty tight set of sites and I don't visit any banking, interest-based casual browsing, shopping, or social media sites on my work laptop at all. Neither should you, dear reader, as many companies have clauses around employees not expecting any privacy while operating company issued devices.

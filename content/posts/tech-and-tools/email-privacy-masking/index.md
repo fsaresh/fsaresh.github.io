@@ -44,7 +44,7 @@ So if Gmail was so great, what changed? If a product is owned by a company and i
 I personally don't like that concept, as I wouldn't want a random marketer reading through my physical mail and letting their buddies know that my electric bill was higher than usual this month.
 
 ## What Can I Do About It?
-So what's next? I switched to Proton Mail a few years ago for everything "important" and haven't looked back. A lot of this comes down to convenience/flexibility vs. privacy (yet again) and is well described by [this post](https://kinsta.com/blog/protonmail-vs-gmail/).
+So what's next? I switched to Proton Mail (see my [DeGoogle'ing my Life post]({{< ref "posts/tech-and-tools/degoogling/index" >}}) for more details) a few years ago for everything "important" and haven't looked back. A lot of this comes down to convenience/flexibility vs. privacy (yet again) and is well described by [this post](https://kinsta.com/blog/protonmail-vs-gmail/).
 
 Personally, I like supporting services like Proton Mail, and I find the offering very worth it. Proton also offers a Calendar, Drive, and VPN included with the cost of its paid tiers. Google offers those services as well, but I find the Proton versions all to be snappier than Gmail is now. It's like being transported back in time to the age of Google innovation, but with Proton instead, and with a focus on privacy and user rather than profit.
 
