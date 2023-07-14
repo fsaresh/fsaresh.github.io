@@ -7,10 +7,10 @@ slug: enjoying_little_things
 author: Farhan Sareshwala
 
 draft: false
-date: 2023-07-13T16:29:05-07:00
-lastmod: 2023-07-13T16:29:05-07:00
+date: 2022-10-01T03:15:45-07:00
+lastmod: 2022-10-01T03:15:45-07:00
 expiryDate: 
-publishDate: 2023-07-13T16:29:05-07:00
+publishDate: 2022-10-01T03:15:45-07:00
 
 # https://draxe.com/beauty/homemade-finger-paint/
 feature_image: _finger_painting.jpg

@@ -7,10 +7,10 @@ slug: browser_safety
 author: Farhan Sareshwala
 
 draft: false
-date: 2023-07-13T16:38:42-07:00
-lastmod: 2023-07-13T23:16:40-07:00
+date: 2022-07-13T16:38:42-07:00
+lastmod: 2022-07-13T23:16:40-07:00
 expiryDate: 
-publishDate: 2023-07-13T16:38:42-07:00
+publishDate: 2022-07-13T16:38:42-07:00
 
 # https://techyeverything.com/most-secure-browsers/
 feature_image: _firefox.jpg
