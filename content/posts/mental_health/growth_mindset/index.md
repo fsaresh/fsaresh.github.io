@@ -12,7 +12,7 @@ lastmod: 2023-07-13T16:19:02-07:00
 expiryDate: 
 publishDate: 2023-07-13T16:19:02-07:00
 
-feature_image: 
+feature_image: _being_sort_of_good.gif
 feature_image_alt: 
 
 categories:

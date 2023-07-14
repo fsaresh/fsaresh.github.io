@@ -12,7 +12,7 @@ lastmod: 2023-07-13T16:04:51-07:00
 expiryDate: 
 publishDate: 2023-07-13T16:04:51-07:00
 
-feature_image: _mental_health.png
+feature_image: _mental_healths.png
 feature_image_alt: 
 
 categories:

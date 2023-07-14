@@ -1,8 +1,8 @@
 ---
 title: Browser Safety
 seo_title: Browser Safety
-summary: 
-description: 
+summary: Your browser is your gateway to the digital world. Why not make sure it's a safe ride? 
+description: Your browser is your gateway to the digital world. Why not make sure it's a safe ride?
 slug: browser_safety
 author: Farhan Sareshwala
 
@@ -19,6 +19,7 @@ categories:
 - Resources
 tags:
 - Digital Safety
+- Privacy
 series:
 
 toc: true
@@ -27,9 +28,7 @@ social_share: true
 disable_comments: false
 ---
 
-There's a lot to be said about trusting your mailbox to be clean and tidy. 
-
-I'll try to keep this brief!
+Your browser is your gateway to the digital world. Why not make sure it's a safe ride?
 
 # Privacy, Browsers, and You
 ## Google and Ads
