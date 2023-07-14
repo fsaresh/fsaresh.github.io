@@ -31,6 +31,7 @@ disable_comments: false
 
 # Helpful Posts
 Here some really useful links I've found in a non-technical capacity that will (hopefully) help your career in the longterm:
+
 - [So you got knocked off the treadmill](https://bootcamp.uxdesign.cc/money-comes-from-working-hard-ive-come-to-believe-is-just-a-line-rich-people-tell-themselves-to-73189670746)
     - This one is written by one of my ex-coworkers! Buck is a really insightful guy and has a lot of wisdom to share. I agree with everything he's written here, but I want to highlight something I strongly believe in: "Just remember that you have a job, you have a career, and you have a life. Don’t EVER confuse the three. When we do we get into all kinds of dark places. Stay healthy."
 - [Life, Career, and Your Job](https://medium.com/data-driven-fiction/life-career-and-your-job-ae1b9f5ffdd)

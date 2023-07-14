@@ -35,7 +35,7 @@ This was just after I finished going over some similar guidance with a coworker 
 
 ...And that was shortly after I helped my sister-in-law prepare to land a software engineering job!
 
-I noticed some common threads in all these discussions and want to share them!
+I noticed some common threads in all these discussions, both from the candidate and interviewer points of view, and want to share them!
 
 {{< figure src="/images/ikigai_smooth.png" title="Ikigai, a framework for finding a job that you find peace with" height="800px" width="800px" >}}
 

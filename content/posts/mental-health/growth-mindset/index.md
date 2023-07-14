@@ -34,7 +34,7 @@ This is a popular topic, so I'm not going to add yet another blog post on what t
 
 # Articles
 - [Why Should You Adopt a Growth Mindset?](https://www.hult.edu/blog/why-develop-growth-mindset/) (short, has a nice diagram!)
-- [What is Growth Mindset?](https://www.understood.org/en/articles/growth-mindset) (medium)
+- [What is a Growth Mindset?](https://www.understood.org/en/articles/growth-mindset) (medium)
     - Covers popular myths too, like "you either have it or you don't" AKA the myth of natural talent
     - My thoughts on talent: yes, some people may naturally get things more easily, but effort and training goes farther in the long term than talent any day. There are people who are both talented and hard working, but they're truly, truly rare.
 - [Misconceptions around Growth Mindsets](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means) (short)
@@ -47,7 +47,7 @@ This is a popular topic, so I'm not going to add yet another blog post on what t
 
 
 # Singing, Growth Mindsets, and You
-I'd like to note that those articles above explain the difference between growth and fixed mindsets, but I think they need a little more detail on why you should adopt a growth mindset. I'll do so by telling a story from my own life! Skip ahead down to the articles section if you're not interested.
+I'd like to note that those articles above explain the difference between growth and fixed mindsets, but I think they need a little more detail on **why** you should adopt a growth mindset. I'll do so by telling a story from my own life!
 
 ## My History with Singing
 I've been taking singing lessons for a few years now, and when I was younger, I assumed that people were just good at singing, while I was doomed to be tone deaf and not good at singing. I really wanted to learn to sing though! Music has impacted my life in meaningful ways -- I've gotten some big life lessons from lyrics, how others discuss their favorite songs, and more. 

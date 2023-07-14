@@ -93,13 +93,16 @@ Finally, one thing I don't really understand is the addition of multifactor auth
 ## An Analogy
 The digital world is rather unlike the physical world. 
 
-In the physical world, you need a key to unlock a lock, and there are (presumably) limited versions of that key. Additionally, it takes a fair amount of time to pull out a key, try it in a lock, and verify if it worked or not. On top of that, if you seem super sketchy trying out a bunch of keys somewhere you're not supposed to be, you might have to deal with some unsavory consequences. 
+In the digital world, anyone can make any key, it takes much less time to try one out, and it's harder to track down "sketchy" actions than in the physical world. So when we live in a world where a password can be compromised without you knowing (unlike someone stealing a key, where your loss of that key is usually pretty obvious), what can we do to better secure our digital life?
 
-Perhaps a better analogy would be an actual password, or a Shibboleth, but this one is easier to understand in my experience.
+Well, securing something requires one of three things: 
+- something you have (like a key or a phone)
+- something you know (like password)
+- something you are (like biometrics)
 
-In the digital world, that's all out the window. Anyone can make any key, it takes much less time to try one out, and it's harder to track down "sketchy" actions. So when we live in a world where a password can be compromised without you knowing (unlike someone stealing a key, where your loss of that key is usually pretty obvious), what can we do to better secure our digital life?
+{{< figure src="/images/_mfas.png" title="A better password generation mechanism" width="800px" >}}
 
-In comes [multifactor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)! Long story short, if a password is a key to a lock, then multifactor authentication is more like needing a key and a badge to open a lock. Not a perfect analogy for those of you more familiar with the technology, but I'll work on it.
+In comes [multifactor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)! Long story short, if a password is a key to a lock, then multifactor authentication is more like needing a key and whispering a password to someone to open a lock. It requires more than just one of the list of things above needed to secure things.
 
 ## Types of MFA
 There are a few ways I've commonly seen this done: 
@@ -115,13 +118,22 @@ There are a few ways I've commonly seen this done:
 - Physical multifactor authentication key
     - e.g. when logging into your bank, you enter your password, your bank prompts you to tap the device plugged into your computer
     - these are really nifty and handy, but can be super inconvenient if you lose the key or if it breaks
-    - I use a [YubiKey Nano 5c](https://www.yubico.com/product/yubikey-5c-nano-pack-of-2/) for this, and it's super convenient to not have to do anything besides gently tap the side of my laptop when authenticating!
+    - I use a [YubiKey Nano 5c](https://www.yubico.com/product/yubikey-5c-nano-pack-of-2/) for this (see below), and it's super convenient to not have to do anything besides gently tap the side of my laptop when authenticating!
+
+{{< figure src="/images/_yubikey_5c_nanos.png" title="A better password generation mechanism" width="800px" >}}
+
 
 ## Security and Convenience: Often at Odds
-I'll acknowledge I get a little grumpy when I have to re-authenticate and if it's been a while, it means logging into Dashlane, letting it autofill my password, grabbing my phone, loading up the Aegis app, scrolling to this website's code, inputting that, and finally getting in, instead of being able to rattle off a simple password from my brain. 
+### Anecdote
+I'll acknowledge I get a little grumpy when I have to re-authenticate and if it's been a while, it means I need to log into Dashlane and let it autofill my password. 
 
+Then to fulfill the multifactor authentication prompt, I need to grab my phone, load up the Aegis app, scroll to that website's code, input that, and finally get in. 
+
+That's a lot more steps than being able to rattle off a simple password from my brain!
+
+### It Goes Both Ways!
 However, that goes both ways: a hacker would need to do a lot more to get into my accounts than, say, someone who has the password "qwerty" (the third most commonly used password).
 
-Also, I'd say that phrase is common to both the digital and physical worlds. Imagine if someone told you it's too inconvenient to pull out a key and unlock my door (or in the modern era, to input a 4 to 8 digit code to unlock my door) and left their door unlocked all the time. 
+Also, I'd say that this mentality is common to both the digital and physical worlds. Imagine if someone told you it's too inconvenient to pull out a key and unlock my door (or in the modern era, to input a 4 to 8 digit code to unlock my door) and left their door unlocked all the time. 
 
-Imagine if someone took that a step further and took their door off the hinges altogether, and you've got the equivalent of using "qwerty" as your password without multifactor authentication. It's just a matter of the wrong person showing up and "breaking" into your home at that point.
+Imagine if someone took that a step further and taped the key to the door, and you've got the equivalent of using "qwerty" as your password without multifactor authentication. It's just a matter of the wrong person showing up and "breaking" into your home at that point.
