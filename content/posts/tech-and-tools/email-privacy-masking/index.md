@@ -3,7 +3,7 @@ title: Email Privacy and Masking
 seo_title: Email Privacy and Masking
 summary: There's a lot to be said about trusting your mailbox to be private and clean, both in-person and digitally. Let's talk about the digital side. 
 description: There's a lot to be said about trusting your mailbox to be private and clean, both in-person and digitally. Let's talk about the digital side. 
-slug: email_privacy_masking
+slug: email-privacy-masking
 author: Farhan Sareshwala
 
 draft: false

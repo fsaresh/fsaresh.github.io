@@ -3,7 +3,7 @@ title: De-Google-ing My Life
 seo_title: De-Google-ing My Life
 summary: I went down a journey recently where I finally decided to reduce the amount of information I share with Google.
 description: I went down a journey recently where I finally decided to reduce the amount of information I share with Google.
-slug: degoogling
+slug: degoogleing
 author: Farhan Sareshwala
 
 draft: false

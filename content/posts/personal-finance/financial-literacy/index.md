@@ -3,7 +3,7 @@ title: Basics of Financial Literacy as Taught to Me
 seo_title: Basics of Financial Literacy as Taught to Me
 summary: Handling money scares a lot of people. Here are some tips and guidelines my mother taught me at a young age!
 description: Handling money scares a lot of people. Here are some tips and guidelines my mother taught me at a young age!
-slug: financial_literacy
+slug: financial-literacy-basics
 author: Farhan Sareshwala
 
 draft: false
