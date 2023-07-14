@@ -7,10 +7,10 @@ slug: growth_mindset
 author: Farhan Sareshwala
 
 draft: false
-date: 2023-07-13T16:19:02-07:00
-lastmod: 2023-07-13T16:19:02-07:00
+date: 2023-01-03T23:34:11-07:00
+lastmod: 2023-01-03T23:34:11-07:00
 expiryDate: 
-publishDate: 2023-07-13T16:19:02-07:00
+publishDate: 2023-01-03T23:34:11-07:00
 
 feature_image: _being_sort_of_good.gif
 feature_image_alt: 

@@ -7,8 +7,8 @@ slug: portfolio-text-to-speech
 author: Farhan Sareshwala
 
 draft: false
-date: 2023-02-20T03:52:30-05:00
-lastmod: 2023-02-20T03:52:30-05:00
+date: 2022-11-27T23:51:30-05:00
+lastmod: 2023-07-05T20:35:10-05:00
 expiryDate: 
 publishDate: 2023-02-20T03:52:30-05:00
 

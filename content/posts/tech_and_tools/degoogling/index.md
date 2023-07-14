@@ -7,10 +7,10 @@ slug: degoogling
 author: Farhan Sareshwala
 
 draft: false
-date: 2023-07-13T16:38:33-07:00
-lastmod: 2023-07-14T09:26:57-07:00
+date: 2023-03-13T16:38:33-07:00
+lastmod: 2023-03-14T09:26:57-07:00
 expiryDate: 
-publishDate: 2023-07-13T16:38:33-07:00
+publishDate: 2023-03-13T16:38:33-07:00
 
 # https://www.reddit.com/r/degoogle/
 feature_image: _degoogle.png

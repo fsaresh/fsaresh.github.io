@@ -7,10 +7,10 @@ slug: password_safety
 author: Farhan Sareshwala
 
 draft: false
-date: 2023-07-13T16:38:56-07:00
-lastmod: 2023-07-13T16:38:56-07:00
+date: 2023-05-13T16:38:56-07:00
+lastmod: 2023-05-13T16:38:56-07:00
 expiryDate: 
-publishDate: 2023-07-13T16:38:56-07:00
+publishDate: 2023-05-13T16:38:56-07:00
 
 # https://www.rocksdigital.com/password-manager-tools/
 feature_image: _password_tools.jpg
