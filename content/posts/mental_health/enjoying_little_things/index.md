@@ -12,7 +12,8 @@ lastmod: 2023-07-13T16:29:05-07:00
 expiryDate: 
 publishDate: 2023-07-13T16:29:05-07:00
 
-feature_image: _being_sort_of_good.gif
+# https://draxe.com/beauty/homemade-finger-paint/
+feature_image: _finger_painting.jpg
 feature_image_alt: 
 
 categories:
