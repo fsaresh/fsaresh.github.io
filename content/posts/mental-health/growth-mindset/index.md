@@ -1,9 +1,9 @@
 ---
-title: Developing a Growth Mindset
-seo_title: Developing a Growth Mindset
+title: Growing a Growth Mindset
+seo_title: Growing a Growth Mindset
 summary: This is a popular topic, so I'm not going to add yet another blog post on what this means. Instead, I'm going to share some stories and link some articles I liked on this topic.
 description: This is a popular topic, so I'm not going to add yet another blog post on what this means. Instead, I'm going to share some stories and link some articles I liked on this topic.
-slug: growth_mindset
+slug: growing-growth-mindset
 author: Farhan Sareshwala
 
 draft: false

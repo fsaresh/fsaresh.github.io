@@ -3,7 +3,7 @@ title: Enjoying the Little Things in Life
 seo_title: Enjoying the Little Things in Life
 summary: Why is it so hard to enjoy the little things in life as an adult? Let's talk about it!
 description: Why is it so hard to enjoy the little things in life as an adult? Let's talk about it!
-slug: enjoying_little_things
+slug: enjoying-little-things
 author: Farhan Sareshwala
 
 draft: false

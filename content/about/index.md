@@ -26,7 +26,7 @@ My sister-in-law, mother, and a few friends have all shown some degree of intere
 
 I enjoy painting, though that's a skill that's not well developed yet -- I might share some here. As for my photography, I've been told my style is "best suited for desktop wallpapers or postcards," which I take as a compliment!
 
-{{< gallery match="my_photos/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="photos/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## Interview Guidance
 An acquaintance wanted guidance on resume crafting and interview prep (technical and behavioral).
