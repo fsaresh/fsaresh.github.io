@@ -8,21 +8,23 @@ TODO for Farhan: add link to other pages once those pages are made
 
 # Who am I?
 ## My Personal Experience
-Not to sound too cliché, but I am many things: partner, friend, son, daydreamer, photographer, and so much more. I enjoy well told stories in pretty much any medium, helping improve the lives of those around me, and actively working on improving my mental state through introspection and therapy.
+Not to sound too cliché, but I am many things: partner, friend, son, daydreamer, photographer, and so much more. I enjoy well-told stories in pretty much any medium, helping improve the lives of those around me, and actively working on improving my mental state through introspection and therapy.
 
 I have a lot of "hare-brained schemes" as my partner calls them; ideas that I think would be fun or meaningful to make the world a better place. I enjoy having variation in activities and conversations, and I think life is about forging connections and making memories meaningful to oneself while we're here.
 
 I'm hoping to share a bit of myself with the world here, in the hopes of making someone's life even a little bit easier.
 
 ## My Professional Experience
-In a professional sense, I'm a software engineering manager with over eight years of technical experience and two years of people management experience. I have staff engineer level backend experience, and my language of choice these days is Python. I have a background in psychology and experience in building inclusive and collaborative teams with a growth mindset, while quantifying results around that growth. 
+In a professional sense, I'm a software engineering manager with over eight years of technical experience and two years of people management experience. I have staff engineer level backend experience, and my language of choice these days is Python. 
+
+I have a background in both computer science and psychology from my college days, and I truly enjoy intersections of the two, including people management. I have experience in building inclusive and collaborative teams with a growth mindset, while quantifying results around that growth. 
 
 More broadly, I enjoy working on problems that help people -- I can't envision myself working at an adtech or defense company, for example. 
 
 ### Side Notes
 Tech is funny to me. We have so many tools and frameworks and languages that sound made up. 
 
-To illustrate that, I have experience working with: REST APIs, Kubernetes, Python, Django, Java, C++ (11, 17), CircleCI, Jenkins, Azure (including Azure DevOps), AWS (including S3, Route 53, etc.), nginx, tomcat, Heroku, Split.io, Launch Darkly, bash, fish, JavaScript, TypeScript, and so many more.
+To illustrate that, I have experience working with: REST APIs, Kubernetes, Python, Django, Java, C++ (11, 17), CircleCI, Jenkins, Azure (including Azure DevOps), AWS (including S3, Route 53, etc.), nginx, tomcat, Heroku, Split.io, Launch Darkly, bash, fish, JavaScript (**very** different from Java!), TypeScript, Reflex, D2, and so many more.
 
 I generally view all technology as a means to an end where the end is making people's lives better. I'm happy to learn any technology needed to make that vision come true!
 
