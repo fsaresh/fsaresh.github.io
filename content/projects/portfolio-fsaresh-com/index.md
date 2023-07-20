@@ -36,7 +36,7 @@ I tried Google Sites, but realized that I didn't like their lack of customizatio
 
 I tried a site called [Zyro](https://www.zyro.com) but it felt too abstract and once again, I didn't have the degree of customization I really wanted in there. Plus, doing things visually instead of using programmatic templates got frustrating after a while. I had to redo the same customizations on every new blog post!
 
-I also tried a few other static site generators like [Jekyll](https://jekyllrb.com/), but each one felt like learning a whole new toolset instead of a set-it-up-once thing where I could write Markdown from then on.
+I also tried a few other static site generators like [Jekyll](https://jekyllrb.com/), but each one felt like learning a whole new toolset instead of a set-it-up-once thing with proper theming and customization.
 
 I recently also tried Pynecone/Reflex to build a whole site and discovered I don't enjoy frontend work nearly enough to commit to building a whole website. 
 
