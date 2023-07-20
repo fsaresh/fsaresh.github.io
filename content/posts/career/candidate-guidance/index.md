@@ -7,10 +7,10 @@ slug: candidate-guidance
 author: Farhan Sareshwala
 
 draft: false
-date: 2023-07-13T15:07:24-07:00
+date: 2022-11-13T15:07:24-07:00
 lastmod: 2023-07-13T15:19:24-07:00
 expiryDate: 
-publishDate: 2023-07-13T15:19:24-07:00
+publishDate: 2022-11-13T15:07:24-07:00
 
 feature_image: _light_devices.jpg
 feature_image_alt: 
