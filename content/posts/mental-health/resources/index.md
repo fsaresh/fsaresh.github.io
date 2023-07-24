@@ -7,10 +7,10 @@ slug: mental-health-resources
 author: Farhan Sareshwala
 
 draft: false
-date: 2023-12-03T23:34:11-07:00
-lastmod: 2023-12-03T23:34:11-07:00
+date: 2022-12-03T23:34:11-07:00
+lastmod: 2022-12-03T23:34:11-07:00
 expiryDate: 
-publishDate: 2023-12-03T23:34:11-07:00
+publishDate: 2022-12-03T23:34:11-07:00
 
 feature_image: _mental_healths.png
 feature_image_alt: 

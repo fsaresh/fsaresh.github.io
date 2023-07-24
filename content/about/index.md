@@ -3,7 +3,6 @@ type: about
 title: Hi, my name is Farhan.
 seo_title: About
 description: Learn more about my background and experience.
-TODO for Farhan: add link to other pages once those pages are made
 ---
 
 # Who am I?
@@ -49,7 +48,9 @@ This was just after I finished going over some similar guidance with a coworker 
 
 ...And that was shortly after I helped my sister-in-law prepare to land a software engineering job!
 
-I noticed some common threads in all these discussions, both from the candidate and interviewer points of view, and want to share them!
+I noticed some common threads in all these discussions, both from the [candidate]({{< ref "posts/career/candidate-guidance/index" >}}) and [interviewer]({{< ref "posts/career/interviewer-guidance/index" >}}) points of view, and want to share them!
+
+I also know of some resources describing [mindset shifts]({{< ref "posts/career/mindset/index" >}}) that might help a lot in your work life.
 
 {{< figure src="/images/ikigai_smooth.png" title="Ikigai, a framework for finding a job that you find peace with" height="800px" width="800px" >}}
 
@@ -57,26 +58,26 @@ I noticed some common threads in all these discussions, both from the candidate 
 ## Mental Health
 I've gone through my fair share of therapy, and the lessons I've learned changed my life -- I wouldn't be half the person I am today without spending time working on myself and becoming my own friend.
 
-I'm a firm believer in being vulnerable and open with mental health, both to reduce the stigma around seeking help with mental health and to ease the process of being vulnerable and getting to know one another in the modern era.
+I'm a firm believer in being vulnerable and open with mental health, both to reduce the stigma around seeking help with mental health and to ease the process of being vulnerable and getting to know one another in the modern era. I've tried to collate [some resources]({{< ref "posts/mental-health/resources/index" >}}) that I think might help readers.
 
 {{< figure src="/images/water_rocks.jpg" height="800px" width="800px" >}}
 
 ## Personal Finance
-My mother taught me a lot around financial literacy, which is a form of privilege: a lot of people haven't been as lucky to be taught some of these things. 
+My mother taught me [a lot around financial literacy]({{< ref "posts/personal-finance/financial-literacy/index" >}}), which is a form of privilege: a lot of people haven't been as lucky to be taught some of these things. 
 
-As an example, I discovered a new credit card that had some amazing benefits. While sharing this, my partner's mother had some questions around how to pick the best credit card for her spending habits, and it got me thinking about the process.
+As an example, I discovered a new credit card that had some amazing benefits. While sharing this, my partner's mother had some questions around [how to pick the best credit card for her spending habits]({{< ref "posts/personal-finance/credit-cards/index" >}}), and it got me thinking about the process.
 
 ## Tech and Tools
 I spend a lot of time with computers. As a result, I've picked up some things that make navigating our digital world safer. I have helped several loved ones onboard to more privacy-focused tools, including:
 -   {{< rawhtml >}}
     <img src="/images/logo-files/firefox_logo_small.png" height="30px" width="30px" inline=true >
     {{< /rawhtml >}}
-    Browser safety 
+    [Browser safety]({{< ref "posts/tech-and-tools/browser-safety/index" >}})
 -   {{< rawhtml >}}
     <img src="/images/logo-files/dashlane_old_logo_small.png" height="30px" width="30px" >
     {{< /rawhtml >}}
-    An effective password manager
+    [Effective password safety]({{< ref "posts/tech-and-tools/password-safety/index" >}})
 -   {{< rawhtml >}}
     <img src="/images/logo-files/proton-mail-badge.svg" height="30px" width="30px" inline=true >
     {{< /rawhtml >}}
-    Email masking/aliasing 
+    [Email masking/aliasing]({{< ref "posts/tech-and-tools/email-privacy-masking/index" >}})

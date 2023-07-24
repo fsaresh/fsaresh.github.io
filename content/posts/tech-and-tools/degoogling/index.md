@@ -8,7 +8,7 @@ author: Farhan Sareshwala
 
 draft: false
 date: 2023-03-13T16:38:33-07:00
-lastmod: 2023-03-14T09:26:57-07:00
+lastmod: 2023-07-24T09:46:29-07:00
 expiryDate: 
 publishDate: 2023-03-13T16:38:33-07:00
 
@@ -59,13 +59,13 @@ My most critical things no longer flow through Google, but I use Google products
 ## Finding Alternatives
 Instead of the above, I now use:
 
-- Email: [Proton Mail](https://mail.proton.me/u/1/inbox) (masked via email masking!)
+- Email: [Proton Mail](https://pr.tn/ref/HD43HBTXN9EG) (masked via [email masking]({{< ref "posts/tech-and-tools/email-privacy-masking/index" >}})!)
 - Calendar: [Proton Calendar](https://calendar.proton.me/), including a shared calendar with my partner.
 - Maps: [Here We Go](https://wego.here.com/), better collections/lists than Google Maps, sometimes has slightly outdated info
 - Messaging: [Signal](https://signal.org/en/), an end-to-end encrypted messaging app that works on both iPhone and Android and has a desktop client
 - Mobile: [GrapheneOS](https://grapheneos.org/), an OS based on base/stock Android built with security and privacy from the ground up [^1]
     [^1]: Super easy to install on any Pixel phone. I remember installing custom bootloaders, running `adb` commands, and bricking a device when I tried putting custom ROMs on a phone ten years ago. Now, it was four clicks with no issues.
-- Notes: I use [Obsidian]() these days, and it's been fantastic. I even set up my website builder to use Obsidian as the editor
+- Notes: I use [Obsidian](https://obsidian.md/) these days, and it's been fantastic. I even set up my website builder to use Obsidian as the editor
 - Photos: I back up to [ente.io](https://ente.io/) now
 - Storage: my important files are backed up to [Proton Drive](https://proton.me/drive/free), my spreadsheets for personal finance stuff are in [Zoho Sheets](https://www.zoho.com/sheet/?ireft=nhome&src=all-products-phome), but I still have several Google Docs and Google Sheets that were collaborative efforts in my GDrive.
 - Videos: as "wrappers" around YouTube, [Invidious](https://inv.riverside.rocks/feed/popular) on desktop, and [NewPipe with SponsorBlock](https://github.com/gilbsgilbs/NewPipeSponsorBlock#newpipe-x-sponsorblock-x-return-youtube-dislike) for mobile
