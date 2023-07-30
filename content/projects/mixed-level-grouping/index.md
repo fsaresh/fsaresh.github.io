@@ -3,7 +3,7 @@ title: Mixed level ability grouping
 seo_title: Mixed level ability grouping
 summary: This project takes a set of students with mixed levels of reading or math abilities and creates groups of diverse ability levels.
 description: This project takes a set of students with mixed levels of reading or math abilities and creates groups of diverse ability levels.
-slug: portfolio-mixed-level-class-grouping
+slug: mixed-level-class-grouping
 author: Farhan Sareshwala
 
 draft: false

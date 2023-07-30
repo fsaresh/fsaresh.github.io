@@ -3,7 +3,7 @@ title: fsaresh.com
 seo_title: fsaresh.com
 summary: Fsaresh.com is a website I built to share ideas and projects with others. You're currently on it!
 description: Fsaresh.com is a website I built to share ideas and projects with others.
-slug: portfolio-fsaresh-com
+slug: fsaresh-com
 author: Farhan Sareshwala
 
 draft: false
