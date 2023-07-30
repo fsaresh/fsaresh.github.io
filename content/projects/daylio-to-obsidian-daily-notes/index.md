@@ -6,7 +6,7 @@ description: I migrated from using Daylio to using Obsidian for my sentence diar
 slug: daylio_to_obsidian_daily_notes
 author: Farhan Sareshwala
 
-draft: true
+draft: false
 date: 2023-07-29T13:16:12-07:00
 lastmod: 2023-07-29T13:16:12-07:00
 expiryDate: 
