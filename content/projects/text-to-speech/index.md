@@ -3,7 +3,7 @@ title: Text to Speech for Sick Folk
 seo_title: Sick Text to Speech
 summary: Simple text-to-speech wrapper around `pyttsx3`.
 description: Simple text-to-speech wrapper around `pyttsx3`.
-slug: portfolio-text-to-speech
+slug: text-to-speech
 author: Farhan Sareshwala
 
 draft: false
