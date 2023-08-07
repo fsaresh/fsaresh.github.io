@@ -23,7 +23,7 @@ project types:
 techstack:
     - Python
 
-#live_url: Not Applicable
+live_url:
 source_url: https://github.com/fsaresh/Mixed-Level-Class-Grouping
 ---
 

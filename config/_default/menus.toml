@@ -22,7 +22,7 @@
     [[main]]
         identifier = "resume"
         name = "Resumé"
-        url = "/projects/resume"
+        url = "/projects/resume/"
         parent = "work"
         weight = 21
     [[main]]

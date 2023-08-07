@@ -16,10 +16,11 @@ feature_image:
 feature_image_alt: 
 
 project types: 
-- Career
+    - Career
 
 techstack:
-- LaTeX
+    - LaTeX
+
 live_url: 
 source_url: 
 ---
