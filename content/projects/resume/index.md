@@ -1,6 +1,6 @@
 ---
 title: Resume
-seo_title: Resume
+seo_title: Farhan Sareshwala Resume
 summary: Here's a copy of my resume, including my professional summary, work experience and past projects, and education.
 description: Here's a copy of my resume, including my professional summary, work experience and past projects, and education.
 slug: resume
@@ -24,5 +24,5 @@ techstack:
 live_url: 
 source_url: 
 ---
-
-{{<pdfreader "./farhan_sareshwala_resume.pdf" >}}   
+Test post
+<!-- {{<pdfreader "./farhan_sareshwala_resume.pdf" >}}    -->
