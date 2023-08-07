@@ -20,6 +20,8 @@ I have a background in both computer science and psychology from my college days
 
 More broadly, I enjoy working on problems that help people -- I can't envision myself working at an adtech or defense company, for example.
 
+[Here's a copy of my resumé]({{< ref "projects/resume/index" >}}), for any interested parties.
+
 ### Side Notes
 Tech is funny to me. We have so many tools and frameworks and languages that sound made up. 
 
