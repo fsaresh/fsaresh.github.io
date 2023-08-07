@@ -23,6 +23,5 @@ techstack:
 live_url: 
 source_url: 
 ---
-<!-- Note that the below is a symbolic link on my machine to where I generate my resume from, meaning it should be up to date if I've kept my symlink up to date. -->
 
-{{<pdfreader "farhan_sareshwala_resume.pdf" >}}   
+{{<pdfreader "./farhan_sareshwala_resume.pdf" >}}   
