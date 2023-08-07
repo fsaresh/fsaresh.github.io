@@ -20,17 +20,23 @@
     weight = 20
 
     [[main]]
+        identifier = "resume"
+        name = "Resumé"
+        url = "/projects/resume"
+        parent = "work"
+        weight = 21
+    [[main]]
         identifier = "projects"
         name = "Projects"
         url = "/projects/"
         parent = "work"
-        weight = 21
+        weight = 22
     [[main]]
         identifier = "career"
         name = "Career Thoughts"
         url = "/tags/career/"
         parent = "work"
-        weight = 22
+        weight = 23
 
 [[main]]
     # Top-level menu entry
