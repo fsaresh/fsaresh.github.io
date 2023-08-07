@@ -24,5 +24,5 @@ techstack:
 live_url: 
 source_url: 
 ---
-Test post
-<!-- {{<pdfreader "./farhan_sareshwala_resume.pdf" >}}    -->
+
+{{<pdfreader "./farhan_sareshwala_resume.pdf" >}}   
