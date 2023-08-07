@@ -20,12 +20,14 @@ I have a background in both computer science and psychology from my college days
 
 More broadly, I enjoy working on problems that help people -- I can't envision myself working at an adtech or defense company, for example. 
 
+[Here's a copy of my resumé]({{< ref "projects/resume" >}}), for any interested parties.
+
 ### Side Notes
 Tech is funny to me. We have so many tools and frameworks and languages that sound made up. 
 
 To illustrate that, I have experience working with: REST APIs, Kubernetes, Python, Django, Java, C++ (11, 17), CircleCI, Jenkins, Azure (including Azure DevOps), AWS (including S3, Route 53, etc.), nginx, tomcat, Heroku, Split.io, Launch Darkly, bash, fish, JavaScript (**very** different from Java!), TypeScript, Reflex, D2, and so many more.
 
-I generally view all technology as a means to an end where the end is making people's lives better. I'm happy to learn any technology needed to make that vision come true!
+I generally view all technology as a means to an end where the end is making people's lives better. I'm happy to learn any and all technology needed to make that vision come true!
 
 ---
 
@@ -63,12 +65,12 @@ I'm a firm believer in being vulnerable and open with mental health, both to red
 {{< figure src="/images/water_rocks.jpg" height="800px" width="800px" >}}
 
 ## Personal Finance
-My mother taught me [a lot around financial literacy]({{< ref "posts/personal-finance/financial-literacy/index" >}}), which is a form of privilege: a lot of people haven't been as lucky to be taught some of these things. 
+My mother taught me [some basics of financial literacy]({{< ref "posts/personal-finance/financial-literacy/index" >}}), which is a form of privilege: a lot of people haven't been as lucky to be taught some of these things. 
 
 As an example, I discovered a new credit card that had some amazing benefits. While sharing this, my partner's mother had some questions around [how to pick the best credit card for her spending habits]({{< ref "posts/personal-finance/credit-cards/index" >}}), and it got me thinking about the process.
 
 ## Tech and Tools
-I spend a lot of time with computers. As a result, I've picked up some things that make navigating our digital world safer. I have helped several loved ones onboard to more privacy-focused tools, including:
+I spend a lot of time with computers and software, and I've spent a lot of time trying to make my experience low friction and secure. As a result, I've picked up some things that make navigating our digital world safer. I have helped several loved ones onboard to more privacy-focused tools, including:
 -   {{< rawhtml >}}
     <img src="/images/logo-files/firefox_logo_small.png" height="30px" width="30px" inline=true >
     {{< /rawhtml >}}
