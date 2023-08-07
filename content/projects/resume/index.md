@@ -6,7 +6,7 @@ description: Here's a copy of my resume, including my professional summary, work
 slug: resume
 author: Farhan Sareshwala
 
-draft: true
+draft: false
 date: 2022-08-07T09:41:36-07:00
 lastmod: 2022-08-07T09:41:36-07:00
 expiryDate:
