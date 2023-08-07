@@ -18,9 +18,7 @@ In a professional sense, I'm a software engineering manager with over eight year
 
 I have a background in both computer science and psychology from my college days, and I truly enjoy intersections of the two, including people management. I have experience in building inclusive and collaborative teams with a growth mindset, while quantifying results around that growth. 
 
-More broadly, I enjoy working on problems that help people -- I can't envision myself working at an adtech or defense company, for example. 
-
-[Here's a copy of my resumé]({{< ref "projects/resume/index" >}}), for any interested parties.
+More broadly, I enjoy working on problems that help people -- I can't envision myself working at an adtech or defense company, for example.
 
 ### Side Notes
 Tech is funny to me. We have so many tools and frameworks and languages that sound made up. 
