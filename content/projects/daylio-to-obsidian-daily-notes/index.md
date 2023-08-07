@@ -16,11 +16,12 @@ feature_image: _obsidian.png
 feature_image_alt: 
 
 project types: 
-- Personal
-- Scripting
+    - Personal
+    - Scripting
 
 techstack: 
-- Python
+    - Python
+
 live_url: 
 source_url: https://github.com/fsaresh/daylio_to_obsidian_daily_notes
 ---
