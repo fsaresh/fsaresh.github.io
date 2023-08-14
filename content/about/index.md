@@ -14,7 +14,7 @@ I have a lot of "hare-brained schemes" as my partner calls them; ideas that I th
 I'm hoping to share a bit of myself with the world here, in the hopes of making someone's life even a little bit easier.
 
 ## My Professional Experience
-In a professional sense, I'm a software engineering manager with over eight years of technical experience and two years of people management experience. I have staff engineer level backend experience, and my language of choice these days is Python. 
+In a professional sense, I'm a software engineer with over eight years of technical experience and two years of management experience. I have staff engineer level backend experience, and my language of choice these days is Python. 
 
 I have a background in both computer science and psychology from my college days, and I truly enjoy intersections of the two, including people management. I have experience in building inclusive and collaborative teams with a growth mindset, while quantifying results around that growth. 
 
