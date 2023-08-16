@@ -60,10 +60,10 @@ I personally have also used [Buxfer](https://www.buxfer.com/acceptInvite?e=08021
 - As for the security and privacy side of things, Buxfer and Monarch both work with financial connection providers (like Plaid) to give out "tokens" rather than storing credentials themselves, and the tokens issued from my banks are effectively read-only and scoped pretty specifically. 
     - That makes it so even if they're hacked and their info decrypted, the hackers will be able to see balances and some transaction info, but that's the extent of it.
 
-## Planning
+## Planning for the Future
 Along with tracking spending, being able to forecast, project, and extrapolate financial planning can be very helpful as well. For example, if you know you have a major expense coming up in a few months/years, being able to project how much it will *actually* impact you can be empowering!
 
-I do this partially via Monarch Money for short-term things and via [ProjectionLab](https://projectionlab.com/) for more long-term goals like retirement/home purchase/medical expenses in old age. Some notes about ProjectionLab
+I do this partially via Monarch Money for short-term things and via [ProjectionLab](https://projectionlab.com/) for more long-term goals like retirement (someday), a home purchase, or medical expenses in old age. Some notes about ProjectionLab:
 - Financial Data: ProjectionLab doesn't require any real info or financial institution connections, so you can put in spoofed/fake data if you'd prefer. 
 - Security/Privacy: the information stays in your browser and only your browser unless you buy a license, at which point [data is encrypted at rest and in traffic](https://projectionlab.com/help/data-security) or you can self-host the application.
 - Trial: they have a fantastic [demo](https://app.projectionlab.com/get-started) that has some prebuilt models to show you how it can help!
