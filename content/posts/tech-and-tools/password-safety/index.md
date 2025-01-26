@@ -121,7 +121,7 @@ There are a few ways I've commonly seen this done:
     - these are really nifty and handy, but can be super inconvenient if you lose the key or if it breaks
     - I use a [YubiKey Nano 5c](https://www.yubico.com/product/yubikey-5c-nano-pack-of-2/) for this (see below), and it's super convenient to not have to do anything besides gently tap the side of my laptop when authenticating!
 
-{{< figure src="/images/_yubikey_5c_nanos.png" title="A better password generation mechanism" width="800px" >}}
+{{< figure src="/images/_yubikey_5c_nanos.jpg" title="A better password generation mechanism" width="800px" >}}
 
 
 ## Security and Convenience: Often at Odds
