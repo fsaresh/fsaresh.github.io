@@ -76,10 +76,10 @@ I spend a lot of time with computers and software, and I've spent a lot of time 
     {{< /rawhtml >}}
     [Browser safety]({{< ref "posts/tech-and-tools/browser-safety/index" >}})
 -   {{< rawhtml >}}
-    <img src="/images/logo-files/dashlane_old_logo_small.png" height="30px" width="30px" >
+    <img src="/images/logo-files/proton_pass.svg" height="30px" width="30px" inline=true >
     {{< /rawhtml >}}
     [Effective password safety]({{< ref "posts/tech-and-tools/password-safety/index" >}})
 -   {{< rawhtml >}}
-    <img src="/images/logo-files/proton-mail-badge.svg" height="30px" width="30px" inline=true >
+    <img src="/images/logo-files/proton_mail.svg" height="30px" width="30px" inline=true >
     {{< /rawhtml >}}
     [Email masking/aliasing]({{< ref "posts/tech-and-tools/email-privacy-masking/index" >}})
