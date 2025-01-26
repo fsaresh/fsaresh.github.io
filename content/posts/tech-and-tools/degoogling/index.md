@@ -54,7 +54,7 @@ This process was surprisingly annoying, mainly because my life was pretty entren
 Well, after my journey, I'm using significantly fewer of those, but still relying a little bit on Google Drive for sharing documents with others and Gmail for some unimportant email I'd rather not receive at my "main" inbox.
 
 My most critical things no longer flow through Google, but I use Google products as a "spam" sink of sorts. Any email I don't really care about can go there, and any text messages with people not on Signal (most of my important chats!) are still in Google Voice. 
-- Side note: I know SMS is insecure, but the only people I text with Google Voice are iPhone users, with the exception of my brother and two friends, and adopting RCS and using Google Messenger (🙁) to chat with those two alone separately feels...frustrating.
+- Side note: I know SMS is insecure, but I've had great success moving friends and family to using Signal. At this point, the only people I text with Google Voice are my brother and two friends, and adopting RCS and using Google Messenger (🙁) to chat with those three alone separately feels...frustrating.
 
 ## Finding Alternatives
 Instead of the above, I now use:
@@ -66,7 +66,7 @@ Instead of the above, I now use:
 - Mobile: [GrapheneOS](https://grapheneos.org/), an OS based on base/stock Android built with security and privacy from the ground up [^1]
     [^1]: Super easy to install on any Pixel phone. I remember installing custom bootloaders, running `adb` commands, and bricking a device when I tried putting custom ROMs on a phone ten years ago. Now, it was four clicks with no issues.
 - Notes: I use [Obsidian](https://obsidian.md/) these days, and it's been fantastic. I even set up my website builder to use Obsidian as the editor
-- Photos: I back up to [ente.io](https://ente.io/) now
+- Photos: I back up to [ente.io](https://ente.io/) now (use code FSARESH if you're interested!).
 - Storage: my important files are backed up to [Proton Drive](https://proton.me/drive/free), my spreadsheets for personal finance stuff are in [Zoho Sheets](https://www.zoho.com/sheet/?ireft=nhome&src=all-products-phome), but I still have several Google Docs and Google Sheets that were collaborative efforts in my GDrive.
 - Videos: as "wrappers" around YouTube, [Invidious](https://inv.riverside.rocks/feed/popular) on desktop, and [NewPipe with SponsorBlock](https://github.com/gilbsgilbs/NewPipeSponsorBlock#newpipe-x-sponsorblock-x-return-youtube-dislike) for mobile
 - Website: I'm now using [NameCheap](https://www.namecheap.com/hosting/hosting-migrate-to-namecheap/) as a domain registrar and DNS, [GitHub Pages](https://pages.github.com/) for hosting, and [Hugo](https://gohugo.io)[^2] with Markdown as a website builder. Took a little longer to setup, but I prefer it over the Google Sites setup I used to have!

@@ -58,36 +58,36 @@ Next, I switched to using a more complex "base" that had a special character, up
 For those who want a secure password to remember, this comic has a much better idea of secure password generation than most sites I've seen. Don't pick the same one it describes, but the protocol and reasoning is sound.
 
 ## Relief at Last!
-Eventually, I discovered that password managers exist and make this easier. I started with LastPass, and started saving passwords every time it prompted to do so after entering login info (credentials) manually. I found LastPass to be functional, but that was about it. I felt it was lacking in features and eventually tried out a few options including Dashlane, 1Password, KeePassX, and a few others.
+Eventually, I discovered that password managers exist and make this easier. I started with LastPass, and started saving passwords every time it prompted to do so after entering login info (credentials) manually. I found LastPass to be functional, but that was about it. I felt it was lacking in features and eventually tried out a few options including Dashlane, 1Password, BitWarden, KeePassX, and a few others.
 
-I eventually settled on [Dashlane](https://www.dashlane.com/cs/fjc15pZldisw) (that's a referral link -- if you sign up with it, we both benefit!). 
+I eventually settled on [Proton Pass](https://pr.tn/ref/HD43HBTXN9EG) within the Proton ecosystem (that's a referral link -- if you sign up with it, we both benefit!). 
 
-Dashlane is also able to save credentials automatically, but offers a wide suite of features outside of that: 
+Proton Pass is able to save credentials automatically, but offers a wide suite of features outside of that: 
 - Password health dashboard that alerts you to reused, compromised, or weak passwords that need changing
 - Secure password generation that's flexible -- choice in length, complexity factors like special characters and digits, etc.
 - Notifications about data breaches and dark web monitoring
-- VPN via HotSpot Shield (I'll make a separate post about why you should or shouldn't use a VPN...)
 - Address and payment autocompletion
-- Easy sharing with other DashLane users
+- Easy sharing with anyone, not just other Proton Pass users
 - Secure notes to hold things that aren't quite logins but should still be kept private
+- [Email masking]({{< ref "posts/tech-and-tools/email-privacy-masking/index" >}})!!
 
-Nowadays, when I need to create a new account, Dashlane's browser extension autogenerates a password for me to use and I can rest easy, knowing that my passwords don't need to be remembered at all. 
+Nowadays, when I need to create a new account, Proton Pass's browser extension autogenerates a password for me to use and I can rest easy, knowing that my passwords don't need to be remembered at all. 
 
-The only passwords I need to know are the ones to unlock my computer and the one to unlock Dashlane. It even has an iPhone and Android app that autofills on pretty much any site or app, so there's no more clunky trying to access complex characters on a tiny keyboard.
+The only passwords I need to know are the ones to unlock my computer and the one to unlock Proton Pass. It even has an iPhone and Android app that autofills on pretty much any site or app, so there's no more clunky trying to access complex characters on a tiny keyboard.
 
 ## Spreading the Love
-Since migrating to Dashlane, I've tried to show others how useful this is:
+Since migrating to Proton Pass, I've tried to show others how useful this is:
 - My mother was easily the most difficult to convince, but once she saw how easy my life was with it, she was on board. Long gone are the days of passwords on Post-It notes!
 - One of my best friends was on LastPass and hit the same points of frustration I had
 - My partner was quite easy to convince, it was like she had been searching for something like that already
 - ...and a few others! I now have a family plan with the above and a few others and we split the cost of the membership.
 
 ## Additional Notes
-I'd strongly avoid using your browser's password manager. Here is a good summary of the dangers of doing so. Dashlane also gets a shoutout on that page for being one of the best reviewed password managers out there!
+I'd strongly avoid using your browser's password manager. Here is a good summary of the dangers of doing so. Proton Pass also gets a shoutout on that page for being one of the best reviewed password managers out there!
 
 In securing your password manager, make sure you have a strong password (see XKCD comic above for suggestions on generation!) and use multifactor authentication (see below), preferably using an app rather than SMS (but something is better than nothing). This becomes the most important password you have, so it's best to make sure it's really secured!
 
-Finally, one thing I don't really understand is the addition of multifactor authentication into a password manager. In my eyes, the separation of that code and password is what makes it multifactor. By combining the two, it feels like it's become a single factor again, no?
+Finally, one thing I don't really understand is the addition of multifactor authentication into a password manager. In my eyes, the separation of that code and password is what makes it multifactor. By combining the two, it feels like it's become a single factor again, no? The only exception to this has been for work, where signing into four accounts every day with a 12-hour timeout on the multifactor authentication has been irritating.
 
 
 # Multifactor Authentication (MFA)
@@ -126,7 +126,7 @@ There are a few ways I've commonly seen this done:
 
 ## Security and Convenience: Often at Odds
 ### Anecdote
-I'll acknowledge I get a little grumpy when I have to re-authenticate and if it's been a while, it means I need to log into Dashlane and let it autofill my password. 
+I'll acknowledge I get a little grumpy when I have to re-authenticate and if it's been a while, it means I need to log into Proton Pass and let it autofill my password. 
 
 Then to fulfill the multifactor authentication prompt, I need to grab my phone, load up the Aegis app, scroll to that website's code, input that, and finally get in. 
 

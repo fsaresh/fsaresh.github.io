@@ -25,7 +25,7 @@ More broadly, I thrive when working on problems that help people -- I can't envi
 ### Side Notes
 Tech is funny to me. We have so many tools and frameworks and languages that sound made up. 
 
-To illustrate that, I have experience working with: REST APIs, Kubernetes, Python, Django, Java, C++ (11, 17), CircleCI, Jenkins, Azure (including Azure DevOps), AWS (including S3, Route 53, etc.), nginx, Tomcat, Heroku, Split.io, Postman, Launch Darkly, bash, fish, JavaScript (**very** different from Java!), TypeScript, Reflex, D2, and so many more.
+To illustrate that, I have experience working with: REST APIs, Kubernetes, Python, (including Django and FastAPI), Java, C++ (11, 17), CircleCI, Jenkins, Azure (including Azure DevOps), AWS (including S3, Route 53, CodeArtifact, etc.), nginx, Tomcat, Heroku, Split.io, Postman, Launch Darkly, bash, fish, JavaScript, TypeScript, Reflex, D2, and so many more.
 
 I generally view all technology as a means to an end where the end is making people's lives better. I'm happy to learn any and all technology needed to make that vision come true!
 
