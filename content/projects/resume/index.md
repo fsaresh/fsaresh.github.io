@@ -25,4 +25,4 @@ live_url: https://www.fsaresh.com/projects/resume/farhan_sareshwala_resume_em.pd
 source_url: 
 ---
 
-{{<pdfreader "https://s3.us-east-2.amazonaws.com/images.fsaresh.com/resume/farhan_sareshwala_resume_em.pdf" >}}   
+{{<pdfreader "http://images.fsaresh.com/resume/farhan_sareshwala_resume_em.pdf" >}}   
