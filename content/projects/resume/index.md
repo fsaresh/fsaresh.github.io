@@ -21,8 +21,8 @@ project types:
 techstack:
     - LaTeX
 
-live_url: https://www.fsaresh.com/projects/resume/farhan_sareshwala_resume_staff.pdf
+live_url: https://www.fsaresh.com/projects/resume/farhan_sareshwala_resume_em.pdf
 source_url: 
 ---
 
-{{<pdfreader "./farhan_sareshwala_resume_staff.pdf" >}}   
+{{<pdfreader "https://s3.us-east-2.amazonaws.com/images.fsaresh.com/resume/farhan_sareshwala_resume_em.pdf" >}}   
