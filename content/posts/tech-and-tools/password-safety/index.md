@@ -51,7 +51,7 @@ After that, I switched to using a "base" password that added a character at the 
 
 Even more confusing was when a site changed names and I couldn't remember what it used to be. Another bad part of this was that prefix was pretty obvious and if a password were compromised, it would be easy to deduce what other passwords would be.
 - Fun fact: [NIST no longer recommends](https://www.alvaka.net/new-password-guidelines-us-federal-government-via-nist/) we do that silly password rotation, as it often leads to insecure passwords that are easier for people to remember. 
-{{< figure src="https://fsaresh-hugo-assets.s3.us-east-2.amazonaws.com/images/password_strength.png" title="A better password generation mechanism" width="800px" >}}
+{{< figure src="https://s3.us-east-2.amazonaws.com/images.fsaresh.com/images/password_strength.png" title="A better password generation mechanism" width="800px" >}}
 
 Next, I switched to using a more complex "base" that had a special character, upper case letter, lower case letter, and was pretty long, ending with a Caesar-cipher character based on the site name. This was fine for a long time, but still felt "icky" in that when I needed to rotate passwords, I'd shift that Caeser-cipher based character and need to remember that.
 
@@ -101,7 +101,7 @@ Well, securing something requires one of three things:
 - something you know (like password)
 - something you are (like biometrics)
 
-{{< figure src="https://fsaresh-hugo-assets.s3.us-east-2.amazonaws.com/images/_mfa.png" title="A better password generation mechanism" width="800px" >}}
+{{< figure src="https://s3.us-east-2.amazonaws.com/images.fsaresh.com/images/_mfa.png" title="A better password generation mechanism" width="800px" >}}
 
 In comes [multifactor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)! Long story short, if a password is a key to a lock, then multifactor authentication is more like needing a key and whispering a password to someone to open a lock. It requires more than just one of the list of things above needed to secure things.
 
@@ -121,7 +121,7 @@ There are a few ways I've commonly seen this done:
     - these are really nifty and handy, but can be super inconvenient if you lose the key or if it breaks
     - I use a [YubiKey Nano 5c](https://www.yubico.com/product/yubikey-5c-nano-pack-of-2/) for this (see below), and it's super convenient to not have to do anything besides gently tap the side of my laptop when authenticating!
 
-{{< figure src="https://fsaresh-hugo-assets.s3.us-east-2.amazonaws.com/images/_yubikey_5c_nanos.jpg" title="A better password generation mechanism" width="800px" >}}
+{{< figure src="https://s3.us-east-2.amazonaws.com/images.fsaresh.com/images/_yubikey_5c_nanos.jpg" title="A better password generation mechanism" width="800px" >}}
 
 
 ## Security and Convenience: Often at Odds
