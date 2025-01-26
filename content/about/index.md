@@ -54,7 +54,7 @@ I noticed some common threads in all these discussions, both from the [candidate
 
 I also know of some resources describing [mindset shifts]({{< ref "posts/career/mindset/index" >}}) that might help a lot in your work life.
 
-{{< figure src="/images/ikigai_smooth.png" title="Ikigai, a framework for finding a job that you find peace with" height="800px" width="800px" >}}
+{{< figure src="https://fsaresh-hugo-assets.s3.us-east-2.amazonaws.com/images/ikigai_smooth.png" title="Ikigai, a framework for finding a job that you find peace with" height="800px" width="800px" >}}
 
 
 ## Mental Health
@@ -62,7 +62,7 @@ I've gone through my fair share of therapy, and the lessons I've learned changed
 
 I'm a firm believer in being vulnerable and open with mental health, both to reduce the stigma around seeking help with mental health and to ease the process of being vulnerable and getting to know one another in the modern era. I've tried to collate [some resources]({{< ref "posts/mental-health/resources/index" >}}) that I think might help readers.
 
-{{< figure src="/images/water_rocks.jpg" height="800px" width="800px" >}}
+{{< figure src="https://fsaresh-hugo-assets.s3.us-east-2.amazonaws.com/images/water_rocks.jpg" height="800px" width="800px" >}}
 
 ## Personal Finance
 My mother taught me [some basics of financial literacy]({{< ref "posts/personal-finance/financial-literacy/index" >}}), which is a form of privilege: a lot of people haven't been as lucky to be taught some of these things. 
@@ -72,14 +72,14 @@ As an example, I discovered a new credit card that had some amazing benefits. Wh
 ## Tech and Tools
 I spend a lot of time with computers and software, and I've spent a lot of time trying to make my experience low friction and secure. As a result, I've picked up some things that make navigating our digital world safer. I have helped several loved ones onboard to more privacy-focused tools, including:
 -   {{< rawhtml >}}
-    <img src="/images/logo-files/firefox_logo_small.png" height="30px" width="30px" inline=true >
+    <img src="https://fsaresh-hugo-assets.s3.us-east-2.amazonaws.com/images/logo-files/firefox_logo_small.png" height="30px" width="30px" inline=true >
     {{< /rawhtml >}}
     [Browser safety]({{< ref "posts/tech-and-tools/browser-safety/index" >}})
 -   {{< rawhtml >}}
-    <img src="/images/logo-files/proton_pass.svg" height="30px" width="30px" inline=true >
+    <img src="https://fsaresh-hugo-assets.s3.us-east-2.amazonaws.com/images/logo-files/proton_pass.svg" height="30px" width="30px" inline=true >
     {{< /rawhtml >}}
     [Effective password safety]({{< ref "posts/tech-and-tools/password-safety/index" >}})
 -   {{< rawhtml >}}
-    <img src="/images/logo-files/proton_mail.svg" height="30px" width="30px" inline=true >
+    <img src="https://fsaresh-hugo-assets.s3.us-east-2.amazonaws.com/images/logo-files/proton_mail.svg" height="30px" width="30px" inline=true >
     {{< /rawhtml >}}
     [Email masking/aliasing]({{< ref "posts/tech-and-tools/email-privacy-masking/index" >}})
