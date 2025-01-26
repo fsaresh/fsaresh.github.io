@@ -54,7 +54,7 @@ I noticed some common threads in all these discussions, both from the [candidate
 
 I also know of some resources describing [mindset shifts]({{< ref "posts/career/mindset/index" >}}) that might help a lot in your work life.
 
-{{< figure src="https://images.fsaresh.com.s3.us-east-2.amazonaws.com/images/ikigai_smooth.png" title="Ikigai, a framework for finding a job that you find peace with" height="800px" width="800px" >}}
+{{< figure src="https://s3.us-east-2.amazonaws.com/images.fsaresh.com/images/ikigai_smooth.png" title="Ikigai, a framework for finding a job that you find peace with" height="800px" width="800px" >}}
 
 
 ## Mental Health
