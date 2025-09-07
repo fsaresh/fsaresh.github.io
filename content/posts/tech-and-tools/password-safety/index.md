@@ -132,7 +132,7 @@ Then to fulfill the multifactor authentication prompt, I need to grab my phone, 
 
 That's a lot more steps than being able to rattle off a simple password from my brain!
 
-### It Goes Both Ways!
+### Inconvenient Goes Both Ways!
 However, that goes both ways: a hacker would need to do a lot more to get into my accounts than, say, someone who has the password "qwerty" (the third most commonly used password).
 
 Also, I'd say that this mentality is common to both the digital and physical worlds. Imagine if someone told you it's too inconvenient to pull out a key and unlock my door (or in the modern era, to input a 4 to 8 digit code to unlock my door) and left their door unlocked all the time. 

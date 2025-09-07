@@ -38,9 +38,9 @@ Forbes wrote an [article](https://www.forbes.com/sites/zakdoffman/2021/03/20/sto
 Chrome has a lot of functionality, I'll admit it. Having said that, Firefox has been pretty much universally better for my personal life, while Brave has been better for my work life.
 
 ## Firefox for Personal
-Firefox has container tabs, which allows you to keep your shopping totally separate from your email and banking and all that. I won't get into cookies and cross-site tracking, but basically, think of it as sites can see where you've been. Imagine a passport but for your time at the mall and getting judgy looks at Target when they see you were just shopping at Walmart...now imagine having a unique passport for every store instead! 
+Firefox has container tabs, which allows you to keep your shopping totally isolated from your email and banking and all that. I won't get into cookies and cross-site tracking, but basically, think of it as sites can see where you've been. Imagine a passport but for your time at the mall and getting judgmental looks at Target when they see you were just shopping at Walmart...now imagine having a unique passport for every store instead! 
 
-That's what container tabs do: I have a unique container (passport) for Google products, another for banking, another for personal stuff, etc.
+That's what container tabs do: I have a unique container (passport) for Google products, another for banking, another for personal stuff, etc. For anyone who thinks incognito tabs do this and I'm advocating for snake oil here, you're half right: incognito tabs are separated from your main window and any session data is removed from your machine once the window is closed, but any sites open in the same incognito session can still track you visiting the other. Container tabs are effectively incognito windows for each purpose/site you set them up for, as opposed to a single isolated session. 
 
 I would also highly recommend installing the [Multi-Account Container Tabs extension](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) to make the container tabs even more convenient -- it lets you define your own containers and set certain pages to always open in a given container, reducing the potential for accidentally opening tabs in the wrong container (or not using a container at all). 
 

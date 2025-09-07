@@ -39,14 +39,14 @@ I used to use Gmail for almost everything. I liked it a lot when I got my first 
 Note that I had email before this in the form of AOL and Hotmail, and Gmail really shook things up back then. Gmail used to be snappy, lightning-fast, and offered features I had never seen from other providers! It was innovation at its finest. Since then, I've personally found a lot of Google products have strayed from that.
 
 ## Why Switch Now?
-So if Gmail was so great, what changed? If a product is owned by a company and is free, there's usually a reason why. As indicated here, Google indexes and scans your emails, photos, attachments, etc. and sells that data. 
+So if Gmail was so great, what changed? If a product is owned by a company and is free, there's usually a reason why. Google used to operate under the model of trying to build an ecosystem that would have you coming back to them for search, where they'd present ads. These days though, Google indexes and scans your emails, photos, attachments, etc. and sells that data to advertisers to further their hold on the market. 
 
 I personally don't like that concept, as I wouldn't want a random marketer reading through my physical mail and letting their buddies know that my electric bill was higher than usual this month.
 
 ## What Can I Do About It?
 So what's next? I switched to Proton Mail (see my [DeGoogle'ing my Life post]({{< ref "posts/tech-and-tools/degoogling/index" >}}) for more details) a few years ago for everything "important" and haven't looked back. A lot of this comes down to convenience/flexibility vs. privacy (yet again) and is well described by [this post](https://kinsta.com/blog/protonmail-vs-gmail/).
 
-Personally, I like supporting services like Proton Mail, and I find the offering very worth it. Proton also offers a Calendar, Drive, and VPN included with the cost of its paid tiers. Google offers those services as well, but I find the Proton versions all to be snappier than Gmail is now. It's like being transported back in time to the age of Google innovation, but with Proton instead, and with a focus on privacy and user rather than profit.
+Personally, I like supporting services like Proton Mail, and I find the offering very worth it. Proton also offers a Calendar, Drive, and VPN included with the cost of its paid tiers.They have free offerings that are quite generous as well! Google offers those same services, but I find the Proton versions all to be snappier than Gmail is now. It's like being transported back in time to the age of Google innovation, but with Proton instead, and with a focus on privacy and user rather than profit. This is at least partially because of the data harvesting Google does, along with the auctioning of ad space taking unnecessary time on loading pages, rather than just...loading the content I came to that page for.
 
 
 
@@ -64,6 +64,6 @@ Now, if you send an email to `hi@my-domain.com` (just an example...), it gets au
 On top of that, I can switch where that forwards to, between either my Gmail or my Proton Mail accounts!
 
 ## How Did You Do That?
-[SimpleLogin](https://simplelogin.io/pricing/) is included with the premium offerings of Proton Pass, but is also available as a separate service for $30 a year for the premium service. They also have a free version, but I think it doesn't offer enough to be worth it, funny enough. Only 10 aliases routing to 1 mailbox, rather than unlimited aliases to unlimited mailboxes with custom domains and partial catch-all addressing (that's a little in the weeds, don't worry about it -- or maybe email me?).
+[SimpleLogin](https://simplelogin.io/pricing/) is included with the premium offerings of Proton Pass and Proton Mail, but is also available as a separate service for $30 a year for the premium service. They also have a free version, but I think it doesn't offer enough to be worth it, funny enough. Only 10 aliases routing to 1 mailbox, rather than unlimited aliases to unlimited mailboxes with custom domains and partial catch-all addressing (that's a little in the weeds, don't worry about it -- or maybe email me?).
 
 [Firefox Relay](https://relay.firefox.com/) does something similar, and there's even a password manager that combines password and email safety: Proton Pass! I personally prefer Proton Pass to other password managers and email maskers (it's easy to find comparisons with searches around password managers, [example result](https://www.tomsguide.com/us/best-password-managers,review-3785.html)).

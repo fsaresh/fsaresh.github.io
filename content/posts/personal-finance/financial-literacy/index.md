@@ -55,10 +55,11 @@ It's also easy to forget about things like streaming accounts you're not using. 
 
 These days, I use [Monarch Money](https://www.monarchmoney.com/referral/3s69btyo39) -- it's a user-friendly budgeting, planning, and financial collaboration tool that helps track things over time by category (you can define/override these easily!), plan for major life events (e.g. a wedding), and see trends in spending. I especially appreciate their recurring expenses tracker, which helped me visualize when and how much money is spent on a regular basis.
 
-I personally have also used [Buxfer](https://www.buxfer.com/acceptInvite?e=0802159f3cb5667306c98b195265d0be) and Mint in the past as well. Intuit (owners of Mint) profits off of analyzing and selling data. Buxfer is a much smaller company dedicated just to this budgeting application. It's not perfect, but it is powerful, and being able to set budgets, see trends, and see all my account balances in one place is handy in my eyes.
-- Buxfer has a powerful demo that lets you actually see how the application works on a mock user. I find their user interface a little clunkier than Monarch, personally.
+I personally have also used [Buxfer](https://www.buxfer.com/acceptInvite?e=0802159f3cb5667306c98b195265d0be) and Mint in the past as well. 
+- Intuit (owners of Mint) profits off of analyzing and selling data, and Mint has since been shut down in favor of Credit Karma which...offers a very different set of services. I'm still confused about their decision there. 
+- Buxfer is a much smaller company dedicated just to this budgeting application. It's not perfect, but it is powerful, and being able to set budgets, see trends, and see all my account balances in one place is handy in my eyes. They have a powerful demo that lets you actually see how the application works on a mock user. I find their user interface a little clunkier than Monarch, personally.
 - As for the security and privacy side of things, Buxfer and Monarch both work with financial connection providers (like Plaid) to give out "tokens" rather than storing credentials themselves, and the tokens issued from my banks are effectively read-only and scoped pretty specifically. 
-    - That makes it so even if they're hacked and their info decrypted, the hackers will be able to see balances and some transaction info, but that's the extent of it.
+    - That makes it so even if they're hacked and their info somehow decrypted, the hackers will be able to see balances and some transaction info, but that's the extent of it.
 
 ## Planning for the Future
 Along with tracking spending, being able to forecast, project, and extrapolate financial planning can be very helpful as well. For example, if you know you have a major expense coming up in a few months/years, being able to project how much it will *actually* impact you can be empowering!
@@ -71,8 +72,8 @@ I do this partially via Monarch Money for short-term things and via [ProjectionL
 ## Allocating Money: Housing, Savings, Fun
 There's a classic piece of advice given out: spend no more than 30% on your housing. 
 
-I think that's outdated advice given how much the economy, wages, and housing costs have changed, especially in the last 10 years.
+I think that's sorely outdated advice given how much the economy, wages, and housing costs have changed, especially in the last 10 years.
 
-[This article](https://www.earnest.com/blog/rent-and-the-30-percent-rule/) gives what I consider a much more reasonable approach, and I highly advise reading it if this is on your mind. That article mentions this near the end, but if you really want a framework with percentages to live by, try the 50/30/20 budget:
+[This article](https://www.earnest.com/blog/rent-and-the-30-percent-rule/) gives what I consider a much more reasonable and less rigid approach, and I highly advise reading it if this is on your mind. That article mentions this near the end, but if you really want a framework with percentages to live by, try the 50/30/20 budget instead:
 
 > Set aside 50% of your take-home pay for rent, utilities, groceries, transportation, insurance, and other living essentials that typically cost the same month to month. Use 30% of your take-home pay on non-essentials, or “wants,” like clothing, dining out, and entertainment. Lastly, use 20% of your monthly income to save.

@@ -76,14 +76,6 @@ I did some digging into the best cards on market for each of those categories, w
 - Travel: [CapitalOne Venture X](https://capital.one/409jCnH)
     - Okay, let me stop for a second: this card is amazing. If you're going to have a single card, this is the one I'd opt for. See below for details.
     
-### Notes
-I have a few other cards on top of these, but they're more specific in use and I won't get into them in much detail outside of these two:
-- Target RedCard, because 5% cashback, 4 month return policy, free 2 day shipping, and better overall than Amazon? Easy choice for me! 
-- Chase Freedom (Flex), because 5% rotating categories can be handy in specific circumstances and it's also my oldest credit card, so closing it would impact my credit score a good amount
-
-Also, I know a lot of people swear by the Chase Sapphire Reserve or the Citi Premier or the American Express Platinum cards, but I found all of their annual fees and benefits worse than my current setup
-- e.g. the American Express Platinum offers a lot of perks, but many of them are totally irrelevant to my interests, like the Equinox discount. These cards can be great if you can maximize all the benefits, but that feels like too much work to me, to be honest. I like one or two conditions at most. Any more than that and it becomes work, not fun, to maximize benefits here.
-
 ## If I Had to Pick Just One...
 I'd like to call attention to one card in particular: the CapitalOne Venture X is phenomenal. With that said, I'm sure the below wall of text can seem overwhelming if you're not used to the language. To summarize, this card is fantastic if you take even a single trip somewhere once a year to use the $300 travel credit.
 
@@ -99,21 +91,20 @@ Let me lay out its benefits...
     - I used to think this sort of benefit was useless, because when Priority Pass first launched, I tried using it and was told several times that the lounges were full. I tried again (4 years later) now that the hype has died down a bit, and it was a wonderful experience. Free food, free drinks, less noise, more comfortable chairs, charging outlets, and more -- it makes long layovers easier.
 - No foreign transaction fees, meaning you don't pay extra when using this card abroad!
 - $100 TSA Precheck/Global Entry credit (redeemable every 4 years, and those programs need renewal every 5 years)
-- $200 AirBnB credit your first year
 - Sign-on bonus of 75,000 miles if you spend $4,000 in the first 3 months (effectively $750 cashback for spending $4,000)
 
 A few other perks I don't care as much about:
 - Hertz's President Circle status
 - 10x miles when booking with Turo
 - CapitalOne Dining and Entertainment experiences
-- Cell phone protection
+- Cell phone protection if you pay for your plan with the card
 - Free additional cardholders
 
 And in all fairness, here are its detriments:
 - $395 annual fee, but before you dismiss this card, they counter that fee with:
     - $300 travel credit applied when booking through CapitalOne's Travel Portal
     - 10,000 bonus miles on your card's anniversary (equivalent to getting $100 back every year)
-    - Note that with just the above two points, we've already paid off the annual fee and got $5 back, without even using a single one of the card's main benefits around hotel, rental car, or flight bookings
+    - Note that with just the above two points, we've already paid off the annual fee and got $5 back, without even using a **single one** of the card's main benefits around hotel, rental car, or flight bookings
 
 
 
@@ -132,10 +123,10 @@ I think people are easily scared by credit cards, especially since they have so 
     - Two big factors in a credit score are average age of credit and oldest credit line. By keeping your oldest account(s) open, you're making sure those factors are treated well in your score.
     - One exception here is if your oldest account charges fees (annual or service or otherwise). My advice here, though it might be too late, would be for your oldest account to be one as low maintenance/cost as can be. FYI, many bank accounts require direct deposit or a certain minimum balance to avoid a fee.
 
-- Keep your credit locked unless you're applying
+- Keep your credit locked unless you're applying for something
     - Identity theft is a serious issue these days. It's all too easy for an estranged family member, angry ex, or hacker to add endless unnecessary stress to your life by opening a few credit cards and maxing out spending. 
         - By keeping your credit locked/frozen and only unlocking/thawing it when you're applying for something, you make sure you're in control and aren't getting surprised when you try to buy a car/home.
-    - Note: I really dislike how social security numbers and credit scores are linked. 
+    - Note: I strongly dislike how social security numbers and credit scores are linked. 
         - The fact that a social security number is both username and password, where knowledge of someone's number can give you untold power over their life, is ridiculous. It's counter to so many best practices of modern security, but we're somehow okay with this archaic and broken system. 
         - It's made even worse by the fact that this information is collected without our consent and is so pivotal in major life purchases in the United States.
 
@@ -150,7 +141,7 @@ Signon bonuses are one time benefits you can get with credit cards where if you 
 - Spend $3,000 in 6 months to get $500 back
 - Spend $4,000 in 3 months to get 100,000 UltimateReward points
 
-These can be really useful if you have a big purchase coming up! For example, my cat had a major procedure done last year, and I was able to snag $500 by getting a new card that had a signon bonus instead of just paying for it with a normal setup. 
+These can be really useful if you have a big purchase coming up! For example, my cat had a major procedure done last year, and I was able to snag $800 by getting a new card that had a signon bonus instead of just paying for it with a normal setup. 
 You can then either cancel the card if you want to keep your average credit age up or keep it if you want to have more active accounts -- both are factors in your credit score.
 
 ## Churning
@@ -160,5 +151,12 @@ Churning is more about pumping and dumping credit cards to maximize [manufacture
 
 Message me if you want more info, but I also am not really into the churning scene and will just send you additional resources not worth listing here.
 
-## More Details
+## More Details and Notes
 Feel free to check out [this post](https://www.uponarriving.com/2016/10/26/step-3-choosing-credit-card/) if you want more detail on anything I described!
+
+I have a few other cards on top of the above, but they're more specific in use and I won't get into them in much detail outside of these two:
+- Target RedCard, because 5% cashback, 4 month return policy, free 2 day shipping, and better overall than Amazon? Easy choice for me! 
+- Chase Freedom (Flex), because 5% rotating categories can be handy in specific circumstances and it's also my oldest credit card, so closing it would impact my credit score a good amount
+
+Also, I know a lot of people swear by the Chase Sapphire Reserve or the Citi Premier or the American Express Platinum cards, but I found all of their annual fees and benefits worse than my current setup
+- e.g. the American Express Platinum offers a lot of perks, but many of them are totally irrelevant to my interests, like the Equinox discount. These cards can be great if you can maximize all the benefits, but that feels like too much work to me, to be honest. I like one or two conditions at most. Any more than that and it becomes work, not fun, to maximize benefits here.

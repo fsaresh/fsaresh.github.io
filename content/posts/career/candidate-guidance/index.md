@@ -40,7 +40,7 @@ My goal in sharing these resources is to aid the transition of you or any ex-cow
 
 # Interviewee Resources
 ## Finding Open Positions
-Cold applying on a company’s site, in my experience, has a pretty low rate of success. I’ve had much better experience in the past, further corroborated by my sister-in-law’s experience, by:
+In my experience, cold applying on a company’s site has a pretty low rate of success, especially post-pandemic. I’ve had much better experience in the past, further corroborated by my sister-in-law’s experience, by:
 
 - Marking your LinkedIn profile as “Looking for Work” and letting recruiters reach out
     - LinkedIn also has a pretty decent Jobs page with helpful filters [here's an example search](https://www.linkedin.com/jobs/search/?currentJobId=3257073095&f_JT=F&f_SB2=7&f_T=1685&f_WT=2&geoId=103644278&keywords=Software%20Engineering%20Manager&location=United%20States&refresh=true&sortBy=R))
@@ -50,7 +50,7 @@ Cold applying on a company’s site, in my experience, has a pretty low rate of 
 - If you have contacts that are hiring, try and connect your ex-teammate with that contact via email/LinkedIn! Direct referrals can go a long way.
 
 - Signing up for services that connect you with recruiters
-    - I have used [hired.com](https://hired.com/x/ca133081a5bde750ae23065f4c0c74a4) and [TripleByte](https://triplebyte.com/iv/TvdG3rK/cp/redir_link) in the past
+    - I have used [hired.com](https://hired.com/x/ca133081a5bde750ae23065f4c0c74a4) and [TripleByte](https://triplebyte.com/iv/TvdG3rK/cp/redir_link) in the past. TripleByte (since acquired by Karat) used to have an interesting model where you would go through their interview and they would contract with companies such that you could move directly to an onsite there, since those companies would trust the TripleByte initial interview results. No longer seems to be the case, unfortunately.
 
 - Checking out Hacker News’s monthly Who’s Hiring post
     - [Here's a compilation site](https://hnhiring.com/) for that!
@@ -65,6 +65,7 @@ In short, I think creating a push-mechanism where recruiters reach out to you if
 
 - [Azure DevOps](https://azure.microsoft.com/en-us/products/devops/?nav=min) was a useful resource for my sister-in-law, who hadn’t worked with CI/CD before. 
     - It gave us a chance to build up skillsets around build/release/test pipelines, artifact repositories, test failures and how to diagnose them, repository permissions management, leading sprint planning, maintaining a wiki for a project that evolves, and more. I don’t think many people who have even a few months of experience will need this, but I wanted to include it for completeness.
+    - Note: Google Cloud and Amazon Web Services will offer a similar experience, but ADO was a little easier to grok for my sister-in-law.
 
 - [Replit](https://replit.com/) is a collaborative browser based IDE
     - This was one of my favorite tools for conducting mock interviews. Replit lets you set up a “repository” of sorts, create files, work with packages, imports, and generally mimic the software development flow collaboratively online with your ex-teammate. It makes practice interviewing similar to tools like CoderPad where you collaboratively code with interview candidates, but this one is free!
@@ -75,7 +76,7 @@ In short, I think creating a push-mechanism where recruiters reach out to you if
 - [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
 
 - [How To Use the STAR Interview Response Technique](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
-    - One thing worth highlighting in the above: I prefer the CARE (Context, Action, Resolution, Evolution) model over STAR (Situation, Task, Action, Result). I find that in STAR, Situation and Task can often end up morphing together, and there’s a missing component on what the interviewee did to improve their skillset/make sure that bad thing doesn’t happen again/etc. CARE has a more cohesive storytelling paradigm in my eyes and it tends to flow more easily. This is my experience though, and feel free to share otherwise.
+    - One thing worth highlighting in the above: I prefer the CARE (Context, Action, Result, Evolution) model over STAR (Situation, Task, Action, Result). I find that in STAR, Situation and Task can often end up morphing together, and there’s a missing component on what the interviewee did to improve their skillset/make sure that bad thing doesn’t happen again/etc. CARE has a more cohesive storytelling paradigm in my eyes and it tends to flow more easily. 
 
 - [r/cscareerquestions - A list of behavioral questions you should practice](https://www.reddit.com/r/cscareerquestions/comments/egx2ng/a_list_of_behavioral_questions_you_should/)
     - Beware of this subreddit: there’s a lot of harmful views there, but it has a lot of resources as well. Take everything said with a larger grain of salt than usual. bear in mind that the anonymity of the internet can lead some people to say cruel things.
@@ -100,7 +101,7 @@ Please reach out if you have other questions/comments/concerns on how I set this
 ## Skillsets: Interview vs. Onsite
 As a personal note, one thing I often find frustrating is that the skillset involved in software engineering and the skillset involved in interviewing for software engineering don’t overlap as much as I believe they should. 
 
-One question I always ask myself during the interview process is how does the interview process make me feel? If I find myself frustrated because the problems feel irrelevant or unnecessarily convoluted, it can be indicative that a company hasn’t put effort into streamlining their interview process to be relevant. Some companies opt to do this to keep their process generic, but that’s a double edged sword, as people often specialize deeply in this industry. 
+One question I always ask myself during the interview process is how does the interview process make me feel? If I find myself frustrated because the problems feel irrelevant or unnecessarily convoluted, it can be indicative that a company hasn’t put effort into streamlining their interview process to be relevant. Some companies opt to do this to keep their process generic, but that’s a double edged sword as people usually specialize deeply in this industry. 
 
 The amount of preparation needed to solve these types of problems effectively can be daunting, and when people are already exhausted from other facets of life, it can be especially harmful to those with adverse life circumstances.
 

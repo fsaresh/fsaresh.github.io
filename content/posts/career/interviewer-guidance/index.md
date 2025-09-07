@@ -37,12 +37,12 @@ I'm writing this from the point of view of helping out an ex-teammate, but the a
 
 
 # Interviewer resources
-As you work with your transitioned-out team member, bear in mind that being critical and giving effective feedback can be awkward in the moment, but it can help give them insight into habits they didn’t know were harming their performance, whether on their resume, technical interview skills, behavioral interviewing skills, or elsewhere.
+As you work with your transitioned-out team member, bear in mind that being critical and giving effective feedback can be awkward in the moment, but it can help give them insight into habits they didn’t know were harming their performance, whether on their resume, technical interview skills, behavioral interviewing skills, or elsewhere. That said, your former team member is likely in a very vulnerable state and reaching out to begin with takes a lot of courage and humility, so kindness and tact need to come first.
 
 ## Scheduling
 Helping out your ex-teammate is a noble endeavor, but scheduling is often difficult. It can be awkward for them to ask for help on brushing up on these skills, so making it as approachable as possible is helpful.
 
-Personally, I prefer to set up a Calendly (or other scheduling tool) link such that they can select a time that works for you. 
+Personally, I prefer to set up a Calendly (or other scheduling tool) link such that they can select a time that works for you. It also reinforces the story that this isn't just a catch-up call but instead carries a purpose.
 
 - These tools typically play nice with your personal calendar (if you wish to integrate it) such that they only leave bookable time slots open if they aren’t already taken by personal events. 
 
@@ -55,7 +55,7 @@ Once they book time with you, it is helpful to go over what they’re looking to
 ## Resume Prep
 A good resume highlights impact and results over effort. Whenever possible, share quantitative metrics over how things improved and how those metrics were gathered. When reviewing your ex-team member’s resume, use a discerning eye to highlight what’s impactful.
 
-I find it helpful to share my own resume and go over why I included (or didn’t include) certain things I’ve worked on as a starting point/example. I find opening up emotionally myself encourages them to do the same, and it leads to a less defensive, more open and honest conversation from the get-go.
+I find it helpful to share my own resume and go over why I included (and why I didn’t include) certain things I’ve worked on as a starting point/example. I find opening up emotionally myself encourages them to do the same, and it leads to a less defensive, more open and honest conversation from the get-go.
 
 Here are some articles that highlight important facets of a good resume:
 1. [How to Write an Effective Resume](https://blog.coursera.org/how-to-write-an-effective-resume/)
@@ -69,7 +69,7 @@ While mock interviewing my sister-in-law, I found myself in a unique position. O
 
 In the case of mock interviewing my sister-in-law, I was able to give much more detailed feedback. I coached her through how to talk through her thought process effectively, how to break down problems into smaller subproblems and approach things from either bottom-up or top-down more effectively, how to ask questions on requirements more effectively, etc.
 
-When giving feedback to your mock interviewee, don’t forget to give both positive and constructive feedback. It’s easy to focus too much on what needs to be improved (if they have a lot of potential things to improve that you noticed) or to avoid talking about that (if you’re trying to avoid demoralizing them), but giving balanced feedback will give them the most realistic picture of how they’re perceived during interviews.
+When giving feedback to your mock interviewee, don’t forget to give both positive and constructive feedback. It’s easy to focus too much on what needs to be improved (if they have a lot of potential things to improve that you noticed) or to avoid talking about that at all (if you’re trying to avoid demoralizing them), but giving balanced feedback will give them the most realistic picture of how they’re perceived during interviews.
 
 I want to reiterate my point from above here: without feedback, it’s difficult to improve, so try to pay close attention to both the good and the bad so you can give your ex-teammate the best odds possible in their interviews.
 
