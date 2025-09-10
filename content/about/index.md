@@ -7,14 +7,14 @@ description: Learn more about my background and experience.
 
 # Who am I?
 ## My Personal Experience
-Not to sound too cliché, but I am many things: partner, friend, son, daydreamer, photographer, and so much more. I enjoy well-told stories in pretty much any medium, helping improve the lives of those around me, and actively working on improving my mental state through introspection and therapy.
+Not to sound too cliché, but I am many things: partner, friend, son, daydreamer, and much more. I enjoy well-told stories in pretty much any medium, helping improve the lives of those around me, and actively working on improving my mental state through introspection and therapy.
 
 I have a lot of "hare-brained schemes" as my partner calls them; ideas that I think would be fun or meaningful to make the world a better place. I enjoy having variation in activities and conversations, and I think life is about forging connections and making memories meaningful to oneself while we're here.
 
 I'm hoping to share a bit of myself with the world here, in the hopes of making someone's life even a little bit easier.
 
 ## My Professional Experience
-In a professional sense, I'm a software engineer with over nine years of technical experience and over two years of management experience. I have staff engineer level backend experience, and my language of choice these days is Python. 
+In a professional sense, I'm a software engineer with over ten years of technical experience and over four years of management experience. I have staff engineer level backend experience, and my language of choice these days is Python. 
 
 I have a background in both computer science and psychology from my college days, and I truly enjoy intersections of the two, including people management. I have experience in building inclusive and collaborative teams with a growth mindset, while quantifying results around that growth. 
 
