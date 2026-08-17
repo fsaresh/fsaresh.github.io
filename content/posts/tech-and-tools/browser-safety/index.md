@@ -8,7 +8,7 @@ author: Farhan Sareshwala
 
 draft: false
 date: 2022-07-13T16:38:42-07:00
-lastmod: 2025-09-07T16:16:20-07:00
+lastmod: 2026-08-16T17:39:41-07:00
 expiryDate: 
 publishDate: 2022-07-13T16:38:42-07:00
 
@@ -55,9 +55,9 @@ Personally, I like supporting services like Proton Mail, and I find the offering
 
 As for talking with family about this sort of thing, check out [this fun post from Mozilla](https://www.mozilla.org/en-US/firefox/family/) on having the "Tech Talk" with your loved ones!
 
-## Brave for Work?
-Chrome has a wonderful feature called [Tab Groups](https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/) (FYI, that's a Google link) that let you group tabs and collapse those groups. It makes organizing large sets of tabs super convenient. Brave is based on Chromium, the same underlying engine behind Chrome, but it has stripped out a lot of the "Google-y" bits and made a decently secure and private browser.
+## Organizing Large Numbers of Tabs
+Some browsers have a wonderful feature called Tab Groups (e.g. [Firefox](https://support.mozilla.org/en-US/kb/tab-groups)) that let you group tabs and collapse those groups. It makes organizing large sets of tabs super convenient. 
 
-For my work as an individual contributor, I didn't need anything like this because my work was pretty focused and more in-depth. However, as an engineering manager, I was in sore need of tab organization since my work has become much broader and more breadth-focused. I have upwards of 30 tabs in 6 groups (tools, leads, domain reviews, my team, demos, to read) at minimum that I switch between pretty regularly.
+For my work as an individual contributor, I didn't need anything like this because my work was pretty focused and more in-depth. However, as an engineering manager, I was in sore need of tab organization since my work has become much broader and more breadth-focused. I have upwards of 30 tabs in at least 6 groups (basic tools, leadership/management, project work, my team-specific items, to read) at minimum that I switch between pretty regularly.
 
-I don't really care as much if companies are able to build a profile based off of my work traffic, since it's all within a pretty tight set of sites and I don't visit any banking, interest-based casual browsing, shopping, or social media sites on my work laptop at all. Neither should you, dear reader, as many companies have clauses around employees not expecting any privacy while operating company issued devices.
+Being able to keep this information available and organized has been helpful to avoid things slipping between the cracks or letting something slip out of mind because it fell out of sight for too long.

@@ -8,7 +8,7 @@ author: Farhan Sareshwala
 
 draft: false
 date: 2022-09-28T22:36:32-07:00
-lastmod: 2025-09-07T16:16:20-07:00
+lastmod: 2026-08-16T17:31:20-07:00
 expiryDate: 
 publishDate: 2022-09-28T22:36:32-07:00
 
@@ -64,9 +64,6 @@ I did some digging into the best cards on market for each of those categories, w
 
 # My Setup
 ## My Main Cards
-- Generic Spending: [Alliant Visa Signature](https://www.alliantcreditunion.org/bank/visa-signature-card)
-    - 2.5% cashback across the board if you meet the easy-to-meet requirements (checking account with direct deposit)
-
 - Groceries: [American Express Blue Cash Preferred](https://americanexpress.com/en-us/referral/FARHASawW8?xl=cp01)
     - 6% cashback (super high!) on groceries and streaming services
 
@@ -84,18 +81,17 @@ Let me lay out its benefits...
 - 10x miles (effectively 10% cashback when used properly) on hotel bookings
 - 10x miles (10% cashback) on rental cars
 - 5x miles (5% cashback) on flights
-    - Note: for the above 5-10x miles offerings, you need to book travel through CapitalOne's Travel Portal, but it's pretty well designed and offers fair pricing
+    - Note: for the above 5-10x miles offerings, you need to book travel through CapitalOne's Travel Portal, but it's pretty well designed and offers competitive pricing
 - 2x miles (2% cashback) on all other spending
     - This makes this card effectively a 2% cashback card in the worst case, which is still pretty great!
 - Access to Priority Pass Lounges, Plaza Premium Lounges, and CapitalOne Lounges across the world
     - I used to think this sort of benefit was useless, because when Priority Pass first launched, I tried using it and was told several times that the lounges were full. I tried again (4 years later) now that the hype has died down a bit, and it was a wonderful experience. Free food, free drinks, less noise, more comfortable chairs, charging outlets, and more -- it makes long layovers easier.
 - No foreign transaction fees, meaning you don't pay extra when using this card abroad!
 - $100 TSA Precheck/Global Entry credit (redeemable every 4 years, and those programs need renewal every 5 years)
-- Sign-on bonus of 75,000 miles if you spend $4,000 in the first 3 months (effectively $750 cashback for spending $4,000)
+- Frequent sign-on bonuses, e.g. mine was 75,000 miles when I spent $4,000 in the first 3 months (effectively $750 cashback for spending $4,000)
 
 A few other perks I don't care as much about:
 - Hertz's President Circle status
-- 10x miles when booking with Turo
 - CapitalOne Dining and Entertainment experiences
 - Cell phone protection if you pay for your plan with the card
 - Free additional cardholders
@@ -113,11 +109,11 @@ I think people are easily scared by credit cards, especially since they have so 
 
 - Never spend money you don't have
     - If you can't pay off the credit card right then and there (or very, very soon), you can't afford it. A credit card is effectively just taking a loan out against your future self, and if you pay it off quickly, it's a 0% interest loan!
-    - A lot of credit card debt is accumulated by treating it as a longer term loan from your future self, where the interest rate increases (i.e. APR) and you're now paying money for things beyond what you bought
+    - A lot of credit card debt is accumulated by treating it as a longer term loan from your future self, where the interest rate increases (i.e. APR) and you're now paying money for things beyond what you bought.
 
 - Always pay on time
-    - If you miss a payment on a credit card, it can be a huge hassle trying to undo the mess it causes for your credit report
-    - Setting up autopay (at least for the minimum balance due) and making sure your bank account can fund that payment saves a lot of heartache here
+    - If you miss a payment on a credit card, it can be a huge hassle trying to undo the mess it causes for your credit report.
+    - Setting up autopay (at least for the minimum balance due) and making sure your bank account can fund that payment saves a lot of heartache here.
 
 - Keep your oldest account open
     - Two big factors in a credit score are average age of credit and oldest credit line. By keeping your oldest account(s) open, you're making sure those factors are treated well in your score.
@@ -155,8 +151,9 @@ Message me if you want more info, but I also am not really into the churning sce
 Feel free to check out [this post](https://www.uponarriving.com/2016/10/26/step-3-choosing-credit-card/) if you want more detail on anything I described!
 
 I have a few other cards on top of the above, but they're more specific in use and I won't get into them in much detail outside of these two:
-- Target RedCard, because 5% cashback, 4 month return policy, free 2 day shipping, and better overall than Amazon? Easy choice for me! 
-- Chase Freedom (Flex), because 5% rotating categories can be handy in specific circumstances and it's also my oldest credit card, so closing it would impact my credit score a good amount
+- Target RedCard, because it comes with 5% cashback, 4 month return policy, free 2 day shipping, and better overall than Amazon in my eyes
+- Chase Freedom (Flex), because 5% rotating categories can be handy in specific circumstances and it's also my oldest credit card, so closing it could impact my credit score a good amount.
 
-Also, I know a lot of people swear by the Chase Sapphire Reserve or the Citi Premier or the American Express Platinum cards, but I found all of their annual fees and benefits worse than my current setup
-- e.g. the American Express Platinum offers a lot of perks, but many of them are totally irrelevant to my interests, like the Equinox discount. These cards can be great if you can maximize all the benefits, but that feels like too much work to me, to be honest. I like one or two conditions at most. Any more than that and it becomes work, not fun, to maximize benefits here.
+Also, I know a lot of people swear by the Chase Sapphire Reserve or the Citi Premier or the American Express Platinum cards, but I found all of their annual fees and benefits worse than my current setup for my personal needs.
+- e.g. the American Express Platinum offers a lot of perks, but many of them are totally irrelevant to my interests, like the Equinox discount. 
+- These cards can be great if you can maximize all the benefits, but that feels like too much work to me, to be honest. I like one or two conditions at most; any more than that and it becomes work, not fun, to maximize benefits here.

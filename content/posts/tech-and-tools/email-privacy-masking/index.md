@@ -8,7 +8,7 @@ author: Farhan Sareshwala
 
 draft: false
 date: 2023-02-13T16:38:48-07:00
-lastmod: 2025-09-07T16:16:20-07:00
+lastmod: 2026-08-16T17:36:20-07:00
 expiryDate: 
 publishDate: 2023-02-13T16:38:48-07:00
 
@@ -67,3 +67,7 @@ On top of that, I can switch where that forwards to, between either my Gmail or 
 [SimpleLogin](https://simplelogin.io/pricing/) is included with the premium offerings of Proton Pass and Proton Mail, but is also available as a separate service for $30 a year for the premium service. They also have a free version, but I think it doesn't offer enough to be worth it, funny enough. Only 10 aliases routing to 1 mailbox, rather than unlimited aliases to unlimited mailboxes with custom domains and partial catch-all addressing (that's a little in the weeds, don't worry about it -- or maybe email me?).
 
 [Firefox Relay](https://relay.firefox.com/) does something similar, and there's even a password manager that combines password and email safety: Proton Pass! I personally prefer Proton Pass to other password managers and email maskers (it's easy to find comparisons with searches around password managers, [example result](https://www.tomsguide.com/us/best-password-managers,review-3785.html)).
+
+
+# Extra Resources
+If you want to learn more or cover more advanced topics, check out [this guide](https://www.expressvpn.com/blog/digital-safety-for-activists-tools-opsec-guide/)!
