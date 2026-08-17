@@ -8,7 +8,7 @@ author: Farhan Sareshwala
 
 draft: false
 date: 2023-05-13T16:38:56-07:00
-lastmod: 2025-09-07T16:16:20-07:00
+lastmod: 2025-08-16T18:06:22-07:00
 expiryDate: 
 publishDate: 2023-05-13T16:38:56-07:00
 
@@ -138,3 +138,6 @@ However, that goes both ways: a hacker would need to do a lot more to get into m
 Also, I'd say that this mentality is common to both the digital and physical worlds. Imagine if someone told you it's too inconvenient to pull out a key and unlock my door (or in the modern era, to input a 4 to 8 digit code to unlock my door) and left their door unlocked all the time. 
 
 Imagine if someone took that a step further and taped the key to the door, and you've got the equivalent of using "qwerty" as your password without multifactor authentication. It's just a matter of the wrong person showing up and "breaking" into your home at that point.
+
+# Extra Resources
+If you want to learn more about keeping yourself safe online or dive deeper into more advanced topics, I recommend checking out [this guide](https://www.expressvpn.com/blog/digital-safety-for-activists-tools-opsec-guide/). It covers a lot of best practices with examples that are easy to understand and what steps you can take to protect yourself and your loved ones in the modern era.

@@ -70,4 +70,4 @@ On top of that, I can switch where that forwards to, between either my Gmail or 
 
 
 # Extra Resources
-If you want to learn more or cover more advanced topics, check out [this guide](https://www.expressvpn.com/blog/digital-safety-for-activists-tools-opsec-guide/)!
+If you want to learn more about keeping yourself safe online or dive deeper into more advanced topics, I recommend checking out [this guide](https://www.expressvpn.com/blog/digital-safety-for-activists-tools-opsec-guide/). It covers a lot of best practices with examples that are easy to understand and what steps you can take to protect yourself and your loved ones in the modern era.
